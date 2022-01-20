@@ -216,11 +216,11 @@ Children’s Bureau Race and Ethnicity Analysis: General statistics on the race 
 ---------
 
 ### Business Policy and Strategy
-* [DoorDash Strategic Analyses](https://github.com/bryce-bowles/doordash-strategic-analysis.git) (Presentations)
-•	Industry Analysis
-•	Environmental Assessment
-•	Strategic Review
-•	Growth through Acquisition
+* [DoorDash Strategic Analyses](https://github.com/bryce-bowles/doordash-strategic-analysis.git)
+  * Industry Analysis
+  * Environmental Assessment
+  * Strategic Review
+  * Growth through Acquisition
 * [Uber’s Failing Brand and Culture Analysis](https://github.com/bryce-bowles/uber-culture.git)
 * [Lowe’s Case Assessment](https://github.com/bryce-bowles/lowes-case-assessment.git)
 ---------
