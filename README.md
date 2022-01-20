@@ -1,11 +1,3 @@
-### Hi there 👋, I'm Bryce Bowles
-
-
-* An aspiring Data Scientist or Machine Learning Engineer captivated in learning descriptive, predictive and prescriptive/decision analyses that enhance and optimize business processes with data driven decision making
-* I've recently graduated with a Masters in Decision Analytics while also being an analyst for 4.5 years with experience in various data and technical roles
-* I'm proficient in gathering, wrangling, modeling, visualizing and presenting data using R, Python Jupyter Notebooks, SQL/PostgreSQL, Tableau, MS Power BI, StatTools, PrecisionTree etc. 
-* Persistent curiosity, continuous desire to solve problems and excellent communication skills with the ability to build lasting relationships
-
 <!--
 **bryce-bowles/bryce-bowles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,11 +15,113 @@ Here are some ideas to get you started:
 -->
 
 
-#### More about me
-I welcome you to join me on a data/tech learning journey! To get to know me more, I highly encourage you to view my [Academic Portfolio](https://github.com/bryce-bowles/bryce-bowles/files/7901462/Bryce_Bowles_CV.pdf) and [Resume](https://github.com/bryce-bowles/bryce-bowles/files/7901501/Bryce_Bowles_Resume.pdf). Feel free to connect on [LinkedIn](https://linkedin.com/in/kennethleungty) or give me a follow on [Datacamp](https://www.datacamp.com/profile/bowlesbe) to stay in the loop.
+
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
+  
+
+### Hi there 👋 - I'm Bryce Bowles, an aspiring Data Scientist or Machine Learning Engineer 👨‍💻 captivated in learning descriptive, predictive and prescriptive/decision analyses that enhance and optimize business processes with data driven decision making.   
+  
+
+- 🎓 I've recently graduated with a Masters in Decision Analytics while working as an analyst full time 💼 in various data and technical roles  
+  
+
+- 🌱 I'm proficient in gathering, wrangling, modeling, visualizing and presenting data using R, Python Jupyter Notebooks, SQL/PostgreSQL, Tableau, MS Power BI, StatTools, PrecisionTree etc.  
+  
+
+- ⚡ Persistent curiosity, continuous desire to solve problems and excellent communication skills with the ability to build lasting relationships  
+  
+
+- 📶 I welcome you to join me on a data/tech learning journey! To get to know me more, I highly encourage you to view my [Academic Portfolio](https://github.com/bryce-bowles/bryce-bowles/files/7901462/Bryce_Bowles_CV.pdf) and [Resume](https://github.com/bryce-bowles/bryce-bowles/files/7901501/Bryce_Bowles_Resume.pdf). Feel free to connect on [LinkedIn](https://linkedin.com/in/kennethleungty) or give me a follow on [Datacamp](https://www.datacamp.com/profile/bowlesbe) to stay in the loop!
+  
+
+<br/>  
+
+
+## My Skill Set  
+<table><tr><td valign="top" width="50%">
 
 
 
+### Skills an Tools 
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobeindesign.svg" alt="Adobe InDesign" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" alt="Oracle" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_hadoop-icon.svg" alt="Hadoop" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
+</div>
+
+* Python (python 3, Juypter Notebooks): NumPy, Pyomo, GLPK, Matplotlib, Scikit Learn, TensorFlow
+* JSON
+* R (R-Studio): Dplyr, Ggplot2, 
+* SQL (Postgres SQL, SQL Server, AQT, Oracle APEX)
+* MS Excel
+  * Goal seek, solver, Palisade Decision Tools (Risk for Monte Carlo simulation, Precision Tree for decision trees and StatTools for statistical analysis and forecasting)
+* Tableau
+* MS Power BI
+* KNIME
+
+</td><td valign="top" width="50%">
+
+### MDA Courses  
+* Advanced Decision Analytics / Management Science
+* Analysis and Design of Database Systems
+* Business Data Analytics
+* Business Intelligence  
+* Business Policy and Strategy
+* Calculus with Analytic Geometry
+* Data Centric Reengineering
+* Database Systems
+* Decision and Risk Analytics
+* Forecasting Methods
+* Statistical Analysis and Modeling
+* Statistical Fundamentals of Business MGMT 
+* Quality Management and 6 Sigma
+
+</td></tr></table>  
+
+<br/>  
+
+
+## Connect with me  
+<div align="center">
+<a href="https://github.com/bryce-bowles" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/Brizzy_bowles" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/bryce-bowles" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/bbowles17" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/bryce_bowles" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
+
+<br/>  
+
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=bryce-bowles&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
 
 
 ----
@@ -131,25 +225,4 @@ Children’s Bureau Race and Ethnicity Analysis: General statistics on the race 
 * Quality Management and Six Sigma
 * Time Series Apple Watch Workout Analysis: Time series health workout data was extracted from my Apple watch to analyze workout variables. A Scope, descriptive statistics, pivot tables, C-Chart and scatter plots were created to check workouts outside of control. Tableau work was used to display correlations.
 (View Report)
----------
-
-## Tools Learned
-
-* Python (python 3, Juypter Notebooks,
-  * NumPy, Pyomo, GLPK, Matplotlib, Scikit Learn, TensorFlow
-* JSON
-* R (R-Studio)
-  * Dplyr, Ggplot2, 
-* SQL (Postgres SQL, SQL Server, AQT, Oracle APEX)
-* MS Excel
-  * Excel Goal seek 
-  * Excel solver
-  * Palisade Decision Tools
-    * Risk for Monte Carlo simulation
-    * Precision Tree for decision trees
-    * StatTools for statistical analysis and forecasting
-* Tableau
-* MS Power BI
-* KNIME
-
 ---------
