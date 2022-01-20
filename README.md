@@ -97,7 +97,7 @@ Here are some ideas to get you started:
 
 </td><td valign="top" width="50%">
 
-### MDA Courses  
+### MS Decision Analytics courses completed
 * Advanced Decision Analytics / Management Science
 * Analysis and Design of Database Systems
 * Business Data Analytics
