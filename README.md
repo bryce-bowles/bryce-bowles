@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[Bryce_Bowles_CV.pdf](https://github.com/bryce-bowles/bryce-bowles/files/7901462/Bryce_Bowles_CV.pdf)
