@@ -216,7 +216,7 @@ Children’s Bureau Race and Ethnicity Analysis: General statistics on the race 
 ---------
 
 ### Business Policy and Strategy
-* DoorDash Strategic Analysis (Presentations)
+* [DoorDash Strategic Analyses](https://github.com/bryce-bowles/doordash-strategic-analysis.git) (Presentations)
 •	Industry Analysis
 •	Environmental Assessment
 •	Strategic Review
