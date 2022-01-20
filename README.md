@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 -->
 
 
-
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
+<!--
+- <div align="center">
+- <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+- </div>  
+-->
 
 ### Hi there 👋 - I'm Bryce Bowles, an aspiring Data Scientist or Machine Learning Engineer 👨‍💻 captivated in learning descriptive, predictive and prescriptive/decision analyses that enhance and optimize business processes with data driven decision making.   
   
