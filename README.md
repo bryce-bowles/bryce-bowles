@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there 👋 - I'm Bryce Bowles
-##### An aspiring Data Scientist or Machine Learning Engineer 👨‍💻 captivated in learning descriptive, predictive and prescriptive/decision analyses that enhance and optimize business processes with data driven decision making.   
+#### An aspiring Data Scientist or Machine Learning Engineer 👨‍💻 captivated in learning descriptive, predictive and prescriptive/decision analyses that enhance and optimize business processes with data driven decision making.   
   
 
 - 🎓 I've recently graduated with a Masters in Decision Analytics while working as an analyst full time 💼 in various data and technical roles  
