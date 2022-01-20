@@ -1,5 +1,11 @@
 ### Hi there 👋, I'm Bryce Bowles
 
+
+* I'm an aspiring Data Scientist or Machine Learning Engineer captivated in learning descriptive, predictive and prescriptive/decision analyses that enhance and optimize business processes with data driven decision making
+* I've been a analyst for 4.5 years with experience in various data and technical roles
+* Proficient in gathering, wrangling, modeling, visualizing and presenting data using R, Python Jupyter Notebooks, SQL/PostgreSQL, Tableau, MS Power BI, StatTools, PrecisionTree etc. 
+* Persistent curiosity, continuous desire to solve problems and excellent communication skills with the ability to build lasting relationships
+
 <!--
 **bryce-bowles/bryce-bowles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -7,6 +13,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -15,17 +22,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I highly encourage you to view my [Academic Portfolio](https://github.com/bryce-bowles/bryce-bowles/files/7901462/Bryce_Bowles_CV.pdf) or [Resume](https://github.com/bryce-bowles/bryce-bowles/files/7901501/Bryce_Bowles_Resume.pdf) to get to know me. 
+
+#### More about me
+I welcome you to join me on a data/tech learning journey! To get to know me more, I highly encourage you to view my [Academic Portfolio](https://github.com/bryce-bowles/bryce-bowles/files/7901462/Bryce_Bowles_CV.pdf) and [Resume](https://github.com/bryce-bowles/bryce-bowles/files/7901501/Bryce_Bowles_Resume.pdf). Feel free to connect on [LinkedIn](https://linkedin.com/in/kennethleungty) or give me a follow on [Datacamp](https://www.datacamp.com/profile/bowlesbe) to stay in the loop.
 
 
 
 
 
-
-
-
-
-
+----
 ## Projects Completed
 
 
