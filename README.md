@@ -135,7 +135,9 @@ Here are some ideas to get you started:
 * [Mobile Munchies](https://github.com/bryce-bowles/mobile-munchies)
 * [Diet Problem and Manufacturing Problem](https://github.com/bryce-bowles/bryce-bowles/files/7901694/HW.2.Modeling.and.Solving.LPs.pdf)
 * [Red Tomato Gardening Tools and Sporting Goods Company](https://github.com/bryce-bowles/bryce-bowles/files/7901690/HW.3.LP.Modeling.and.Sensitivity.pdf)
----------
+ 
+----------
+
 ### Business Data Analytics 
 (Machine Learning, Classification Trees, Regression, Random Forests, Support Vector Machines, etc.)
 * Alchemy Broker Analysis Project
@@ -143,7 +145,8 @@ Here are some ideas to get you started:
 * Lending Club Classification Analysis
 * Final Exam: Terms, classification models, test and training dataset splits, logistic regression models, classification tree models, ROC curves, AUC, confusion matrix, support vector machines, variance, bias, leakage, MAE and RMSE, R squared, LASSO approach (penalty on the coefficients) etc.
 (View Report)
----------
+
+----------
 
 ### Statistical Analysis and Modeling
 * Midterm Report: Descriptive statistics, Confidence intervals, z-test for two independent samples / Two-tailed test, scattergrams, box plots, Analysis of Variance, p-values, root mean square error, R2, Akaike’s AIC Best model, Multicollinearity Variance Inflation Factors, etc. 
@@ -222,7 +225,9 @@ Children’s Bureau Race and Ethnicity Analysis: General statistics on the race 
 (View Report)
 * Lowe’s Case Assessment: Lowe’s industry analysis for the market space, brand positioning, environmental assessment, and strategic opportunities/dilemmas.
 (View Report)
-* Quality Management and Six Sigma
-* Time Series Apple Watch Workout Analysis: Time series health workout data was extracted from my Apple watch to analyze workout variables. A Scope, descriptive statistics, pivot tables, C-Chart and scatter plots were created to check workouts outside of control. Tableau work was used to display correlations.
-(View Report)
 ---------
+
+### Quality Management and Six Sigma
+* [Time Series Apple Watch Workout Analysis](https://github.com/bryce-bowles/TS-Apple_Watch_Data)
+---------
+
