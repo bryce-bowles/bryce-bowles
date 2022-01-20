@@ -2,8 +2,8 @@
 
 
 * An aspiring Data Scientist or Machine Learning Engineer captivated in learning descriptive, predictive and prescriptive/decision analyses that enhance and optimize business processes with data driven decision making
-* I've recently graduated with a Masters in Decision Analytics while beeing an analyst for 4.5 years with experience in various data and technical roles
-* Proficient in gathering, wrangling, modeling, visualizing and presenting data using R, Python Jupyter Notebooks, SQL/PostgreSQL, Tableau, MS Power BI, StatTools, PrecisionTree etc. 
+* I've recently graduated with a Masters in Decision Analytics while also being an analyst for 4.5 years with experience in various data and technical roles
+* I'm proficient in gathering, wrangling, modeling, visualizing and presenting data using R, Python Jupyter Notebooks, SQL/PostgreSQL, Tableau, MS Power BI, StatTools, PrecisionTree etc. 
 * Persistent curiosity, continuous desire to solve problems and excellent communication skills with the ability to build lasting relationships
 
 <!--
