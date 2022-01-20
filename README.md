@@ -38,7 +38,7 @@ I welcome you to join me on a data/tech learning journey! To get to know me more
 (Machine Learning: Deterministic and Probabilistic Modeling, Optimization, Simulation) 
 * Federal Reserve Bank of Richmond Optimization Model ([Report File](https://github.com/bryce-bowles/bryce-bowles/files/7901670/Project_Federal_Reserve_Bank_Workspace_Final_Report.pdf))
 * Optimization and Simulation [Proposal](https://github.com/bryce-bowles/bryce-bowles/files/7901675/Final_Optimization-Simulation_Proposal.pdf) for SCC Bureau of Insurance 
-* [Mobile Munchies](https://github.com/bryce-bowles/mobile-munchies), ([Report File](MobileMunchiesSolution.pdf))
+* [Mobile Munchies](https://github.com/bryce-bowles/mobile-munchies)
 * [Diet Problem and Manufacturing Problem](https://github.com/bryce-bowles/bryce-bowles/files/7901694/HW.2.Modeling.and.Solving.LPs.pdf)
 * [Red Tomato Gardening Tools and Sporting Goods Company](https://github.com/bryce-bowles/bryce-bowles/files/7901690/HW.3.LP.Modeling.and.Sensitivity.pdf)
 ---------
