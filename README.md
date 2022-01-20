@@ -223,7 +223,7 @@ Children’s Bureau Race and Ethnicity Analysis: General statistics on the race 
 •	Growth through Acquisition
 * Uber’s Failing Brand: Uber Technologies Inc. brand analysis research report describing brand culture and change strategy. Historical strategic context of the brand, the role culture played in the performance decline of the brand, how the culture impacted financial performance, and how they are attempting to transform and renew the culture
 (View Report)
-* [Lowe’s Case Assessment](https://github.com/bryce-bowles/lowes-case-assessment/blob/4d5cf67f7ffe2924fb4299893e1c0946ecea7a16/BryceBowles_Lowes%20Case%20Assessment.pdf): Lowe’s industry analysis for the market space, brand positioning, environmental assessment, and strategic opportunities/dilemmas.
+* [Lowe’s Case Assessment](https://github.com/bryce-bowles/lowes-case-assessment.git)
 ---------
 
 ### Quality Management and Six Sigma
