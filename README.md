@@ -162,7 +162,7 @@ Other models using .R and R-Studio
 *	[TSRegression.R]() 
 *	[TSDecomposition.R]()
 *	[ExponentialSmoothing.R]() 
-*	[Differencing.R]() - Must detrend before doing ARIMA
+*	[Differencing.R](https://github.com/bryce-bowles/differencing.git) - Must detrend before doing ARIMA
 *	[ARIMA.R](https://github.com/bryce-bowles/arima-r.git) 
 ---------
 
