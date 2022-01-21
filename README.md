@@ -211,8 +211,7 @@ Children’s Bureau Race and Ethnicity Analysis: General statistics on the race 
 (View Presentation)
 * Forecasting with R.: Forecasting described from the perspective of using R and R studio software. 
 (View Report)
-* Midterm Exam: KJ Manufacturing Company
-(View Report)
+* [KJ Manufacturing Company Case Scenario](https://github.com/bryce-bowles/KJ-manufacturing-TSF.git)
 * Final Exam: Comprehensive review with questions and answers on all topics learned.  
 (View Report)
 ---------
