@@ -182,8 +182,7 @@ Other models using .R and R-Studio
 ### Business Intelligence (Visuals)
 * Opioid Prescribing Rates Analysis: Semester long project working with Virginia Department of Social Services to assist in Data Centric Reengineer useful data into a major FAACT database. Tableau dashboard
 (View Report)
-Children’s Bureau Race and Ethnicity Analysis: General statistics on the race and ethnicity of children in foster care analyzing statistics on variables such as Child Maltreatment, Children Waiting for Adoption, children adopted etc.
-(View Report)
+* [Children’s Bureau Race and Ethnicity Analysis](https://github.com/bryce-bowles/childrens-bureau-race-analysis.git)
 * Car Loan Negotiation: Used Excel Goal seek to negotiate a car purchased with variables such as Price, APR, Years, Payment/month.
 (View Model)
 * [Norton Engines](https://github.com/bryce-bowles/norton-engines.git)
