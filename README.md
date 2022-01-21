@@ -203,8 +203,7 @@ Children’s Bureau Race and Ethnicity Analysis: General statistics on the race 
 ---------
  
 ### Forecasting Methods
-* :star: Richmond Bank Total Core Deposit Forecasts: Using MS Excel and R, accurately forecasted total core deposit data from a Richmond Bank. The Holt’s Linear Exponential Smoothing had the overall lowest “Quick and Dirty” MAPE (1.2%), the lowest overall Maximum MAPE (3.49%), and consistently more accurate projections for each of the forecast horizons. Overall, the Unaided, Holts Linear Exponential Smoothing, and both regressions overestimated while the Naïve, 12 Month (M) Center Moving Average (CMA), 3M Moving Average (MA), 6M MA, Damped Trend Exponential Smoothing, and Simple Exponential Smoothing underestimated. 
-(View Report, .r File, Excel File)
+* :star: [Richmond Bank Total Core Deposit Forecasts](https://github.com/bryce-bowles/tsf-richmond-bank.git)
 * [Richmond Casino Proposal Analysis](https://github.com/bryce-bowles/richmond-casino-analysis.git)
 * [New Product Forecasting](https://github.com/bryce-bowles/new-product-forecasting-concepts.git)
 * [Forecasting with R](https://github.com/bryce-bowles/forecasting_with_R.git)
