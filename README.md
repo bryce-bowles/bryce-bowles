@@ -158,7 +158,7 @@ Here are some ideas to get you started:
 * [Whiskey Analysis](https://github.com/bryce-bowles/whiskey-prediction.git)
 
 Other models using .R and R-Studio
-*	[TSPlots.R]() 
+*	[TSPlots.R](https://github.com/bryce-bowles/ts-plots.R.git) 
 *	[TSRegression.R]() 
 *	[TSDecomposition.R](https://github.com/bryce-bowles/ts-decomposition.R.git)
 *	[ExponentialSmoothing.R](https://github.com/bryce-bowles/ts-exponential-smoothing.git) 
