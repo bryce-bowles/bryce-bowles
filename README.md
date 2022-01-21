@@ -207,8 +207,7 @@ Children’s Bureau Race and Ethnicity Analysis: General statistics on the race 
 (View Report, .r File, Excel File)
 * Richmond Casino Proposal Analysis: Research analysis completed on the proposal of a Richmond, VA Casino presentation including history/background, economic/revenue impact, frustrations, process etc. 
 (View Presentation)
-* New Product Forecasting: New product forecasting concepts (such as Delphi method, Assumptions Based, ATAR model, and Sensitivity Analysis) used to forecast and present an innovative smart sticky note printer.
-(View Presentation)
+* [New Product Forecasting](https://github.com/bryce-bowles/new-product-forecasting-concepts.git)
 * [Forecasting with R](https://github.com/bryce-bowles/forecasting_with_R.git)
 * [KJ Manufacturing Company Case Scenario](https://github.com/bryce-bowles/KJ-manufacturing-TSF.git)
 * [Time Series Forecasting Final Exam](https://github.com/bryce-bowles/forecasting-final-exam.git)
