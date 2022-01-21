@@ -180,8 +180,7 @@ Other models using .R and R-Studio
 ---------
 
 ### Business Intelligence (Visuals)
-* Opioid Prescribing Rates Analysis: Semester long project working with Virginia Department of Social Services to assist in Data Centric Reengineer useful data into a major FAACT database. Tableau dashboard
-(View Report)
+* [Opioid Prescribing Rates Analysis](https://github.com/bryce-bowles/opioid-prescribing-rates.git)
 * [Children’s Bureau Race and Ethnicity Analysis](https://github.com/bryce-bowles/childrens-bureau-race-analysis.git)
 * [Car Loan Negotiation](https://github.com/bryce-bowles/car-loan-negotiation_goal-seek.git)
 * [Norton Engines](https://github.com/bryce-bowles/norton-engines.git)
