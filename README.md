@@ -186,8 +186,7 @@ Children’s Bureau Race and Ethnicity Analysis: General statistics on the race 
 (View Report)
 * Car Loan Negotiation: Used Excel Goal seek to negotiate a car purchased with variables such as Price, APR, Years, Payment/month.
 (View Model)
-* Norton Engines: Optimization analysis solved using Excel solver, sensitivity analysis, and slack. To optimally maximize profits, Norton Engines should produce 1000 Type A engines and 500 Type B engines for a total profit of $6,600,000. 
-(View Report, Excel File)
+* [Norton Engines](https://github.com/bryce-bowles/norton-engines.git)
 * [Music Sales](https://github.com/bryce-bowles/music-sales.git)
 * [Airbnb](https://github.com/bryce-bowles/airbnb.git)
 * [IRIS Flower Data](https://github.com/bryce-bowles/iris-flower.git)
