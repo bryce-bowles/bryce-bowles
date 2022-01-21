@@ -175,8 +175,7 @@ Other models using .R and R-Studio
 * Midterm Report: Probabilities, Decision Trees and Influence Diagram scenarios
 (View Report and Precision Tree files)
 
-* :star: Project Proposal Decision Tree – Career Moves: Objectives, uncertainties, influence diagram, assumptions, decision tree model, probability and cumulative comparison node chart (supporting documents – proposal, excel analysis and presentation)
-(View Documents)
+* :star: [Project Proposal Decision Tree](https://github.com/bryce-bowles/career-change-decision-tree.git)
 ---------
 
 ### Business Intelligence (Visuals)
