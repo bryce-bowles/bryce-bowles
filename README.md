@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 
 - 📶 I welcome you to join me on a data/tech learning journey! To get to know me more, I highly encourage you to view my [Academic Portfolio](Bryce_Bowles_CV.pdf) and [Resume](Bryce_Bowles_Resume.pdf). Feel free to connect on [LinkedIn](https://linkedin.com/in/kennethleungty) or give me a follow on [Datacamp](https://www.datacamp.com/profile/bowlesbe) to stay in the loop!
   
+![](https://komarev.com/ghpvc/?username=bryce-bowles&color=green) ![](https://img.shields.io/static/v1?label=Project+Count&message=52&color=2ea44f)
 
 <br/>  
 
@@ -126,11 +127,12 @@ Here are some ideas to get you started:
 
 ----
 ## Projects Completed
-
+**Projects tagged with :star: are my personal favourites, so do check them out!**
+</div> 
 
 ### Advanced Decision Analytics 
 (Machine Learning: Deterministic and Probabilistic Modeling, Optimization, Simulation) 
-* Federal Reserve Bank of Richmond Optimization Model ([Report File](https://github.com/bryce-bowles/bryce-bowles/files/7901670/Project_Federal_Reserve_Bank_Workspace_Final_Report.pdf))
+* :star: Federal Reserve Bank of Richmond Optimization Model ([Report File](https://github.com/bryce-bowles/bryce-bowles/files/7901670/Project_Federal_Reserve_Bank_Workspace_Final_Report.pdf))
 * Optimization and Simulation [Proposal](https://github.com/bryce-bowles/bryce-bowles/files/7901675/Final_Optimization-Simulation_Proposal.pdf) for SCC Bureau of Insurance 
 * [Mobile Munchies](https://github.com/bryce-bowles/mobile-munchies)
 * [Diet Problem and Manufacturing Problem](https://github.com/bryce-bowles/bryce-bowles/files/7901694/HW.2.Modeling.and.Solving.LPs.pdf)
@@ -140,9 +142,9 @@ Here are some ideas to get you started:
 
 ### Business Data Analytics 
 (Machine Learning, Classification Trees, Regression, Random Forests, Support Vector Machines, etc.)
-* Alchemy Broker Analysis Project
+* :star: Alchemy Broker Analysis Project
 * Lending Club Cluster and Principal Component Analysis
-* Lending Club Classification Analysis
+* :star: Lending Club Classification Analysis
 * Final Exam: Terms, classification models, test and training dataset splits, logistic regression models, classification tree models, ROC curves, AUC, confusion matrix, support vector machines, variance, bias, leakage, MAE and RMSE, R squared, LASSO approach (penalty on the coefficients) etc.
 (View Report)
 
@@ -165,7 +167,7 @@ Other models using .R and R-Studio
 ### Database Management (SQL/ PostgreSQL)
 * Taylor’s Clothing DBMS: Business rules, user requirements, ER diagram, entity relationships etc. (Oracle APEX)
 (View Report)
-* Automated Systems DBMS: Completed and proposed an Automated Systems Database to Manager - also created a MS Power BI Version. Centralized Relational SQL Database to help produce the appropriate roles for a position, creating consistency throughout departments and job titles (with the exception of optional roles for additional access) and reduce the number of access roles that are kept when changing positions. The DBMS unifies and consolidates system access to improve data security.
+* :star: Automated Systems DBMS: Completed and proposed an Automated Systems Database to Manager - also created a MS Power BI Version. Centralized Relational SQL Database to help produce the appropriate roles for a position, creating consistency throughout departments and job titles (with the exception of optional roles for additional access) and reduce the number of access roles that are kept when changing positions. The DBMS unifies and consolidates system access to improve data security.
 (View Report)
 ---------
 
@@ -173,7 +175,7 @@ Other models using .R and R-Studio
 * Midterm Report: Probabilities, Decision Trees and Influence Diagram scenarios
 (View Report and Precision Tree files)
 
-* Project Proposal Decision Tree – Career Moves: Objectives, uncertainties, influence diagram, assumptions, decision tree model, probability and cumulative comparison node chart (supporting documents – proposal, excel analysis and presentation)
+* :star: Project Proposal Decision Tree – Career Moves: Objectives, uncertainties, influence diagram, assumptions, decision tree model, probability and cumulative comparison node chart (supporting documents – proposal, excel analysis and presentation)
 (View Documents)
 ---------
 
@@ -201,7 +203,7 @@ Children’s Bureau Race and Ethnicity Analysis: General statistics on the race 
 ---------
  
 ### Forecasting Methods
-* Richmond Bank Total Core Deposit Forecasts: Using MS Excel and R, accurately forecasted total core deposit data from a Richmond Bank. The Holt’s Linear Exponential Smoothing had the overall lowest “Quick and Dirty” MAPE (1.2%), the lowest overall Maximum MAPE (3.49%), and consistently more accurate projections for each of the forecast horizons. Overall, the Unaided, Holts Linear Exponential Smoothing, and both regressions overestimated while the Naïve, 12 Month (M) Center Moving Average (CMA), 3M Moving Average (MA), 6M MA, Damped Trend Exponential Smoothing, and Simple Exponential Smoothing underestimated. 
+* :star: Richmond Bank Total Core Deposit Forecasts: Using MS Excel and R, accurately forecasted total core deposit data from a Richmond Bank. The Holt’s Linear Exponential Smoothing had the overall lowest “Quick and Dirty” MAPE (1.2%), the lowest overall Maximum MAPE (3.49%), and consistently more accurate projections for each of the forecast horizons. Overall, the Unaided, Holts Linear Exponential Smoothing, and both regressions overestimated while the Naïve, 12 Month (M) Center Moving Average (CMA), 3M Moving Average (MA), 6M MA, Damped Trend Exponential Smoothing, and Simple Exponential Smoothing underestimated. 
 (View Report, .r File, Excel File)
 * Richmond Casino Proposal Analysis: Research analysis completed on the proposal of a Richmond, VA Casino presentation including history/background, economic/revenue impact, frustrations, process etc. 
 (View Presentation)
@@ -226,6 +228,28 @@ Children’s Bureau Race and Ethnicity Analysis: General statistics on the race 
 ---------
 
 ### Quality Management and Six Sigma
-* [Time Series Apple Watch Workout Analysis](https://github.com/bryce-bowles/TS-Apple_Watch_Data)
+* [Time Series Apple Watch Workout Analysis](https://github.com/bryce-bowles/TS-Apple_Watch_Data) [test](#TS-Apple_Watch_Data)
 ---------
 
+<!--
+
+## Portfolio Contents
+1. [Computer Vision](#computer-vision)
+2. [Data Extraction and Web Scraping](#data-extraction-and-web-scraping)
+3. [Data Science Certification Guides](#data-science-certification-guides)
+4. [Data Science Tools](#data-science-tools)
+
+___
+<a name="computer-vision"></a>
+## Computer Vision :eye_speech_bubble:
+| Title | Article | Repo |
+| --- | --- | --- |
+| Classifying Images of Alcoholic Beverages with fast.ai v2 | [:link:](https://towardsdatascience.com/classifying-images-of-alcoholic-beverages-with-fast-ai-34c4560b5543?sk=d0efa0e6b6d214c52b337a0381a4fd3d) | [:link:](https://github.com/kennethleungty/Alcohol-Image-Classifier-fastai) |
+| Russian Car Plate Detection with OpenCV and TesseractOCR | [:link:](https://towardsdatascience.com/russian-car-plate-detection-with-opencv-and-tesseractocr-dce3d3f9ff5c?sk=263f4351c3c2c5cd9c60a4469b9dab08) | [:link:](https://github.com/kennethleungty/Car-Plate-Detection-OpenCV-TesseractOCR) |
+| Evaluate OCR Output Quality with Character Error Rate (CER) and Word Error Rate (WER) | [:link:](https://towardsdatascience.com/evaluating-ocr-output-quality-with-character-error-rate-cer-and-word-error-rate-wer-853175297510?sk=9b76f0a994edc90c105f71ac2f7d725f) | [:link:](https://github.com/kennethleungty/OCR-Metrics-CER-WER) |
+| Top Python libraries for Image Augmentation in Computer Vision | [:link:](https://towardsdatascience.com/top-python-libraries-for-image-augmentation-in-computer-vision-2566bed0533e?sk=a45cb5c2070f8434f876d48597addd33) | [:link:](https://github.com/kennethleungty/Image-Augmentation-Libraries) |
+| :star: PyTorch Ignite Tutorial - Classifying Tiny ImageNet with EfficientNet | [:link:](https://towardsdatascience.com/pytorch-ignite-classifying-tiny-imagenet-with-efficientnet-e5b1768e5e8f?sk=505c5489f67772912e40ce0ed67bba20) | [:link:](https://github.com/kennethleungty/PyTorch-Tiny-ImageNet-Classification) |
+
+___
+<a name="data-extraction-and-web-scraping"></a>
+-->
