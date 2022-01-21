@@ -183,8 +183,7 @@ Other models using .R and R-Studio
 * Opioid Prescribing Rates Analysis: Semester long project working with Virginia Department of Social Services to assist in Data Centric Reengineer useful data into a major FAACT database. Tableau dashboard
 (View Report)
 * [Children’s Bureau Race and Ethnicity Analysis](https://github.com/bryce-bowles/childrens-bureau-race-analysis.git)
-* Car Loan Negotiation: Used Excel Goal seek to negotiate a car purchased with variables such as Price, APR, Years, Payment/month.
-(View Model)
+* [Car Loan Negotiation](https://github.com/bryce-bowles/car-loan-negotiation_goal-seek.git)
 * [Norton Engines](https://github.com/bryce-bowles/norton-engines.git)
 * [Music Sales](https://github.com/bryce-bowles/music-sales.git)
 * [Airbnb](https://github.com/bryce-bowles/airbnb.git)
