@@ -156,6 +156,7 @@ Here are some ideas to get you started:
 ### Statistical Analysis and Modeling
 * [Midterm Report]()
 * [Whiskey Analysis](https://github.com/bryce-bowles/whiskey-prediction.git)
+
 Other models using .R and R-Studio
 *	[TSPlots.R]() 
 *	[TSRegression.R]() 
