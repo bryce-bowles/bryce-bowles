@@ -197,8 +197,7 @@ Children’s Bureau Race and Ethnicity Analysis: General statistics on the race 
 * Census Clustering: US Census Bureau data K-Means cluster analysis and Logistic Regression conducted using KNIME and Tableau
 (View PowerPoint)
 * [Lending Club Loan Analysis](https://github.com/bryce-bowles/lending-club-loan-analysis.git) 
-* Netflix Student Competition: Netflix data, such as Average user rating score and average rating description, visualized via Tableau dashboard 
-(View PowerPoint)
+* [Netflix Student Competition](https://github.com/bryce-bowles/netflix-student-competition.git)
 ---------
  
 ### Forecasting Methods
