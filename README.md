@@ -159,7 +159,7 @@ Here are some ideas to get you started:
 
 Other models using .R and R-Studio
 *	[TSPlots.R](https://github.com/bryce-bowles/ts-plots.R.git) 
-*	[TSRegression.R]() 
+*	[TSRegression.R](https://github.com/bryce-bowles/ts-regression.R.git) 
 *	[TSDecomposition.R](https://github.com/bryce-bowles/ts-decomposition.R.git)
 *	[ExponentialSmoothing.R](https://github.com/bryce-bowles/ts-exponential-smoothing.git) 
 *	[Differencing.R](https://github.com/bryce-bowles/differencing.git) - Must detrend before doing ARIMA
