@@ -188,8 +188,7 @@ Children’s Bureau Race and Ethnicity Analysis: General statistics on the race 
 (View Model)
 * Norton Engines: Optimization analysis solved using Excel solver, sensitivity analysis, and slack. To optimally maximize profits, Norton Engines should produce 1000 Type A engines and 500 Type B engines for a total profit of $6,600,000. 
 (View Report, Excel File)
-* Music Sales: Music sales displayed in a Tableau dashboard with a variety of graphs
-(View Tableau Download)
+* [Music Sales](https://github.com/bryce-bowles/music-sales.git)
 * [Airbnb](https://github.com/bryce-bowles/airbnb.git)
 * [IRIS Flower Data](https://github.com/bryce-bowles/iris-flower.git)
 * [Census Clustering](https://github.com/bryce-bowles/census-clustering.git)
