@@ -161,7 +161,7 @@ Other models using .R and R-Studio
 *	[TSPlots.R]() 
 *	[TSRegression.R]() 
 *	[TSDecomposition.R]()
-*	[ExponentialSmoothing.R]() 
+*	[ExponentialSmoothing.R](https://github.com/bryce-bowles/ts-exponential-smoothing.git) 
 *	[Differencing.R](https://github.com/bryce-bowles/differencing.git) - Must detrend before doing ARIMA
 *	[ARIMA.R](https://github.com/bryce-bowles/arima-r.git) 
 ---------
