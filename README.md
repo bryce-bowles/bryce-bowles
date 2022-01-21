@@ -154,7 +154,7 @@ Here are some ideas to get you started:
 ----------
 
 ### Statistical Analysis and Modeling
-* [Midterm Report]()
+* [Midterm Report](https://github.com/bryce-bowles/statistical-modeling-R.git) **(still cleaning up)**
 * [Whiskey Analysis](https://github.com/bryce-bowles/whiskey-prediction.git)
 
 Other models using .R and R-Studio
