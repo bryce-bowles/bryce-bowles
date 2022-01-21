@@ -190,8 +190,7 @@ Children’s Bureau Race and Ethnicity Analysis: General statistics on the race 
 (View Report, Excel File)
 * Music Sales: Music sales displayed in a Tableau dashboard with a variety of graphs
 (View Tableau Download)
-* Airbnb: A couple is deciding where to rent at an Airbnb in New York. Our team helped evaluate factors we thought would help them choose the best location using a Tableau dashboard story. 
-(View Tableau Download)
+* [Airbnb](https://github.com/bryce-bowles/airbnb.git)
 * [IRIS Flower Data](https://github.com/bryce-bowles/iris-flower.git)
 * [Census Clustering](https://github.com/bryce-bowles/census-clustering.git)
 * [Lending Club Loan Analysis](https://github.com/bryce-bowles/lending-club-loan-analysis.git) 
