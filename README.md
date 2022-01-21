@@ -192,8 +192,7 @@ Children’s Bureau Race and Ethnicity Analysis: General statistics on the race 
 (View Tableau Download)
 * Airbnb: A couple is deciding where to rent at an Airbnb in New York. Our team helped evaluate factors we thought would help them choose the best location using a Tableau dashboard story. 
 (View Tableau Download)
-* IRIS Flower Data: K-Means cluster analysis conducted using KNIME and Tableau
-(View PowerPoint)
+* [IRIS Flower Data](https://github.com/bryce-bowles/iris-flower.git)
 * [Census Clustering](https://github.com/bryce-bowles/census-clustering.git)
 * [Lending Club Loan Analysis](https://github.com/bryce-bowles/lending-club-loan-analysis.git) 
 * [Netflix Student Competition](https://github.com/bryce-bowles/netflix-student-competition.git)
