@@ -148,9 +148,7 @@ Here are some ideas to get you started:
 * :star: Alchemy Broker Analysis Project
 * Lending Club Cluster and Principal Component Analysis
 * :star: Lending Club Classification Analysis
-* Final Exam: Terms, classification models, test and training dataset splits, logistic regression models, classification tree models, ROC curves, AUC, confusion matrix, support vector machines, variance, bias, leakage, MAE and RMSE, R squared, LASSO approach (penalty on the coefficients) etc.
-(View Report)
-
+* [Business Data Analytics Final](https://github.com/bryce-bowles/business-data-analytics.git): Terms, classification models, test and training dataset splits, logistic regression models, classification tree models, ROC curves, AUC, confusion matrix, support vector machines, variance, bias, leakage, MAE and RMSE, R squared, LASSO approach (penalty on the coefficients) etc.
 ----------
 
 ### Statistical Analysis and Modeling
