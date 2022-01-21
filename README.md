@@ -194,8 +194,7 @@ Children’s Bureau Race and Ethnicity Analysis: General statistics on the race 
 (View Tableau Download)
 * IRIS Flower Data: K-Means cluster analysis conducted using KNIME and Tableau
 (View PowerPoint)
-* Census Clustering: US Census Bureau data K-Means cluster analysis and Logistic Regression conducted using KNIME and Tableau
-(View PowerPoint)
+* [Census Clustering](https://github.com/bryce-bowles/census-clustering.git)
 * [Lending Club Loan Analysis](https://github.com/bryce-bowles/lending-club-loan-analysis.git) 
 * [Netflix Student Competition](https://github.com/bryce-bowles/netflix-student-competition.git)
 ---------
