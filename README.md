@@ -209,8 +209,7 @@ Children’s Bureau Race and Ethnicity Analysis: General statistics on the race 
 (View Presentation)
 * New Product Forecasting: New product forecasting concepts (such as Delphi method, Assumptions Based, ATAR model, and Sensitivity Analysis) used to forecast and present an innovative smart sticky note printer.
 (View Presentation)
-* Forecasting with R.: Forecasting described from the perspective of using R and R studio software. 
-(View Report)
+* [Forecasting with R](https://github.com/bryce-bowles/forecasting_with_R.git)
 * [KJ Manufacturing Company Case Scenario](https://github.com/bryce-bowles/KJ-manufacturing-TSF.git)
 * [Time Series Forecasting Final Exam](https://github.com/bryce-bowles/forecasting-final-exam.git)
 ---------
