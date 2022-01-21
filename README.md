@@ -172,9 +172,7 @@ Other models using .R and R-Studio
 ---------
 
 ### Decision and Risk Analytics (Decision Tree and Influence Diagram)
-* Midterm Report: Probabilities, Decision Trees and Influence Diagram scenarios
-(View Report and Precision Tree files)
-
+* [Decision Tree and Influence Diagram Scenarios](https://github.com/bryce-bowles/midterm.git)
 * :star: [Project Proposal Decision Tree](https://github.com/bryce-bowles/career-change-decision-tree.git)
 ---------
 
