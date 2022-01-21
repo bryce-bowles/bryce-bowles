@@ -154,16 +154,15 @@ Here are some ideas to get you started:
 ----------
 
 ### Statistical Analysis and Modeling
-* Midterm Report: Descriptive statistics, Confidence intervals, z-test for two independent samples / Two-tailed test, scattergrams, box plots, Analysis of Variance, p-values, root mean square error, R2, Akaike’s AIC Best model, Multicollinearity Variance Inflation Factors, etc. 
-(View Report, Supporting documents)
+* [Midterm Report]()
 * [Whiskey Analysis](https://github.com/bryce-bowles/whiskey-prediction.git)
 Other models using .R and R-Studio
-•	TSPlots.R 
-•	TSRegression.R 
-•	TSDecomposition.R 
-•	ExponentialSmoothing.R 
-•	Differencing.R - Must detrend before doing ARIMA
-•	ARIMA.R 
+*	[TSPlots.R]() 
+*	[TSRegression.R]() 
+*	[TSDecomposition.R]()
+*	[ExponentialSmoothing.R]() 
+*	[Differencing.R]() - Must detrend before doing ARIMA
+*	[ARIMA.R](https://github.com/bryce-bowles/arima-r.git) 
 ---------
 
 ### Database Management (SQL/ PostgreSQL)
