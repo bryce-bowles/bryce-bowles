@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 - 📶 I welcome you to join me on a data/tech learning journey! To get to know me more, I highly encourage you to view my [Academic Portfolio](Bryce_Bowles_CV.pdf) and [Resume](Bryce_Bowles_Resume.pdf). Feel free to connect on [LinkedIn](https://linkedin.com/in/kennethleungty) or give me a follow on [Datacamp](https://www.datacamp.com/profile/bowlesbe) to stay in the loop!
   
-![](https://komarev.com/ghpvc/?username=bryce-bowles&color=green) ![](https://img.shields.io/static/v1?label=Project+Count&message=52&color=2ea44f)
+![](https://komarev.com/ghpvc/?username=bryce-bowles&color=green)
 
 <br/>  
 
