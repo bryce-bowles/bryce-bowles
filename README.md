@@ -146,8 +146,8 @@ Here are some ideas to get you started:
 ### Business Data Analytics 
 (Machine Learning, Classification Trees, Regression, Random Forests, Support Vector Machines, etc.)
 * :star: Alchemy Broker Analysis Project
-* Lending Club Cluster and Principal Component Analysis
-* :star: [Lending Club Classification Analysis](https://github.com/bryce-bowles/lending-club-classification.git)
+* [Lending Club Cluster and Principal Component Analysis](https://github.com/bryce-bowles/lending-club-pca-cluster.git)
+* :star: [Lending Club Classification Analysis](https://github.com/bryce-bowles/lending-club-classification.git) 
 * [Business Data Analytics Final](https://github.com/bryce-bowles/business-data-analytics.git): Terms, classification models, test and training dataset splits, logistic regression models, classification tree models, ROC curves, AUC, confusion matrix, support vector machines, variance, bias, leakage, MAE and RMSE, R squared, LASSO approach (penalty on the coefficients) etc.
 ----------
 
