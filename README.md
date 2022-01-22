@@ -110,7 +110,7 @@ Here are some ideas to get you started:
 * Business Policy and Strategy
 * Calculus with Analytic Geometry
 * Data Centric Reengineering
-* Database Systems
+* Database Management Systems
 * Decision and Risk Analytics
 * Forecasting Methods
 * Statistical Analysis and Modeling
