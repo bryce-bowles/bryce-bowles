@@ -215,4 +215,4 @@ Other models using .R and R-Studio
 
 ### Quality Management and Six Sigma
 * [Time Series Apple Watch Workout Analysis](https://github.com/bryce-bowles/TS-Apple_Watch_Data)
----------
+
