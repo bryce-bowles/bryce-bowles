@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 - ⚡ Persistent curiosity, continuous desire to solve problems and excellent communication skills with the ability to build lasting relationships  
   
 
-- 📶 I welcome you to join me on a data/tech learning journey! To get to know me more, I highly encourage you to view my [Academic Portfolio](Bryce_Bowles_CV.pdf) and [Resume](Bryce_Bowles_Resume.pdf). Feel free to connect on [LinkedIn](https://linkedin.com/in/kennethleungty) or give me a follow on [Datacamp](https://www.datacamp.com/profile/bowlesbe) to stay in the loop!
+- 📶 I welcome you to join me on a data/tech learning journey! To get to know me more, I highly encourage you to view my [Academic Portfolio](Bryce_Bowles_CV.pdf) and [Resume](Bryce_Bowles_Resume.pdf). Feel free to connect on [LinkedIn](www.linkedin.com/in/bryce-bowles) or give me a follow on [Datacamp](https://www.datacamp.com/profile/bowlesbe) to stay in the loop!
   
 ![](https://komarev.com/ghpvc/?username=bryce-bowles&color=green)
 
@@ -214,26 +214,3 @@ Other models using .R and R-Studio
 ### Quality Management and Six Sigma
 * [Time Series Apple Watch Workout Analysis](https://github.com/bryce-bowles/TS-Apple_Watch_Data)
 ---------
-
-<!--
-
-## Portfolio Contents
-1. [Computer Vision](#computer-vision)
-2. [Data Extraction and Web Scraping](#data-extraction-and-web-scraping)
-3. [Data Science Certification Guides](#data-science-certification-guides)
-4. [Data Science Tools](#data-science-tools)
-
-___
-<a name="computer-vision"></a>
-## Computer Vision :eye_speech_bubble:
-| Title | Article | Repo |
-| --- | --- | --- |
-| Classifying Images of Alcoholic Beverages with fast.ai v2 | [:link:](https://towardsdatascience.com/classifying-images-of-alcoholic-beverages-with-fast-ai-34c4560b5543?sk=d0efa0e6b6d214c52b337a0381a4fd3d) | [:link:](https://github.com/kennethleungty/Alcohol-Image-Classifier-fastai) |
-| Russian Car Plate Detection with OpenCV and TesseractOCR | [:link:](https://towardsdatascience.com/russian-car-plate-detection-with-opencv-and-tesseractocr-dce3d3f9ff5c?sk=263f4351c3c2c5cd9c60a4469b9dab08) | [:link:](https://github.com/kennethleungty/Car-Plate-Detection-OpenCV-TesseractOCR) |
-| Evaluate OCR Output Quality with Character Error Rate (CER) and Word Error Rate (WER) | [:link:](https://towardsdatascience.com/evaluating-ocr-output-quality-with-character-error-rate-cer-and-word-error-rate-wer-853175297510?sk=9b76f0a994edc90c105f71ac2f7d725f) | [:link:](https://github.com/kennethleungty/OCR-Metrics-CER-WER) |
-| Top Python libraries for Image Augmentation in Computer Vision | [:link:](https://towardsdatascience.com/top-python-libraries-for-image-augmentation-in-computer-vision-2566bed0533e?sk=a45cb5c2070f8434f876d48597addd33) | [:link:](https://github.com/kennethleungty/Image-Augmentation-Libraries) |
-| :star: PyTorch Ignite Tutorial - Classifying Tiny ImageNet with EfficientNet | [:link:](https://towardsdatascience.com/pytorch-ignite-classifying-tiny-imagenet-with-efficientnet-e5b1768e5e8f?sk=505c5489f67772912e40ce0ed67bba20) | [:link:](https://github.com/kennethleungty/PyTorch-Tiny-ImageNet-Classification) |
-
-___
-<a name="data-extraction-and-web-scraping"></a>
--->
