@@ -137,7 +137,7 @@ Here are some ideas to get you started:
 
 ----
 ## Projects Completed
-**Projects tagged with :star: are my personal favourites, so do check them out!**
+**Projects tagged with :star: are my personal favourites, do check them out!**
 </div> 
 
 ### Advanced Decision Analytics 
