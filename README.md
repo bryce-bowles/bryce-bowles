@@ -172,8 +172,7 @@ Other models using .R and R-Studio
 ---------
 
 ### Database Management (SQL/ PostgreSQL)
-* Taylor’s Clothing DBMS: Business rules, user requirements, ER diagram, entity relationships etc. (Oracle APEX)
-(View Report)
+* [Taylor’s Clothing DBMS](https://github.com/bryce-bowles/taylor-clothing-dbms.git)
 * :star: [Automated Systems DBMS](https://github.com/bryce-bowles/scc-work-dbms.git)
 ---------
 
