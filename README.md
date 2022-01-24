@@ -136,7 +136,7 @@ Here are some ideas to get you started:
 ### Advanced Decision Analytics 
 (Machine Learning: Deterministic and Probabilistic Modeling, Optimization, Simulation) 
 * :star: [Federal Reserve Bank of Richmond Workspace Allocation Optimization](https://github.com/bryce-bowles/office-workspace-optimization.git)
-* [Optimization and Simulation Proposal](https://github.com/bryce-bowles/bryce-bowles/files/7901675/Final_Optimization-Simulation_Proposal.pdf) for SCC Bureau of Insurance 
+* [Optimization and Simulation Proposal for SCC Bureau of Insurance](https://github.com/bryce-bowles/helpdesk-optimization-proposal.git) 
 * [Mobile Munchies](https://github.com/bryce-bowles/mobile-munchies)
 * [Diet Problem and Manufacturing Problem](https://github.com/bryce-bowles/bryce-bowles/files/7901694/HW.2.Modeling.and.Solving.LPs.pdf)
 * [Red Tomato Gardening Tools and Sporting Goods Company](https://github.com/bryce-bowles/bryce-bowles/files/7901690/HW.3.LP.Modeling.and.Sensitivity.pdf)
