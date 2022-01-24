@@ -42,6 +42,9 @@ Here are some ideas to get you started:
 
 ## Connect with me  
 <div align="center">
+<a href="mailto:bowlesb94@gmail.com" target="_blank">
+<img src=https://img.shields.io/badge/email-%23000000.svg?&style=for-the-badge&logo=email&logoColor=white alt=email style="margin-bottom: 5px;" />
+</a> 
 <a href="https://github.com/bryce-bowles" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -57,9 +60,7 @@ Here are some ideas to get you started:
 <a href="https://instagram.com/bryce_bowles" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
-<a href="bowlesb94@gmail.com" target="_blank">
-<img src=https://img.shields.io/badge/email-%23000000.svg?&style=for-the-badge&logo=email&logoColor=white alt=email style="margin-bottom: 5px;" />
-</a> 
+
 </div>  
   
 
