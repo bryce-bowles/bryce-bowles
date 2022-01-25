@@ -152,6 +152,7 @@ Here are some ideas to get you started:
 
 ### Business Data Analytics 
 (Machine Learning, Classification Trees, Regression, Random Forests, Support Vector Machines, etc.)
+* :star: :star: [Lending Club Comprehensive Data Analytics R scenario](https://github.com/bryce-bowles/lending-club.git)
 * :star: [Alchemy Broker Analysis Project](https://github.com/bryce-bowles/alchemy-broker-modeling.git)
 * [Lending Club Cluster and Principal Component Analysis](https://github.com/bryce-bowles/lending-club-pca-cluster.git)
 * :star: [Lending Club Classification Analysis](https://github.com/bryce-bowles/lending-club-classification.git) 
