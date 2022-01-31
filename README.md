@@ -154,9 +154,11 @@ Here are some ideas to get you started:
 (Machine Learning, Classification Trees, Regression, Random Forests, Support Vector Machines, etc.)
 * :star: :star: [Lending Club Data Analytics  in R](https://github.com/bryce-bowles/lending-club.git): Topics include the analytics work
 flow, data preparation, visualization, cluster analysis, predictive modeling, and learning-enabled optimization. The Lending Club data is a mix of numeric, character, factor, and date data.
-⋅⋅⋅1. [**Importing the data**](https://github.com/bryce-bowles/lending-club/tree/main/1_importing_data)  | To an acceptable format to use in r.
-⋅⋅⋅2. [**Data Prep**](https://github.com/bryce-bowles/lending-club/tree/main/2_Data_Preparation) | Slicing, summarizing, missing values, aggregating, descriptive statistics, histograms, log transformation due to skewdness, normalizing and box plot of interest rate for each loan status
-⋅⋅⋅3. [**Visualization**](https://github.com/bryce-bowles/lending-club/tree/main/3_visualization) | Histograms, log transformation due to skewdness, normalizing, box and whisker plot, Mosaic Plot, scatter plot, 3D Scatter, time series
+  ⋅⋅⋅1. [**Importing the data**](https://github.com/bryce-bowles/lending-club/tree/main/1_importing_data)  | To an acceptable format to use in r.
+  
+  ⋅⋅⋅2. [**Data Prep**](https://github.com/bryce-bowles/lending-club/tree/main/2_Data_Preparation) | Slicing, summarizing, missing values, aggregating, descriptive statistics, histograms, log transformation due to skewdness, normalizing and box plot of interest rate for each loan status
+  
+  ⋅⋅⋅3. [**Visualization**](https://github.com/bryce-bowles/lending-club/tree/main/3_visualization) | Histograms, log transformation due to skewdness, normalizing, box and whisker plot, Mosaic Plot, scatter plot, 3D Scatter, time series
 ⋅⋅⋅4. [**Cluster_pca**](https://github.com/bryce-bowles/lending-club/tree/main/4_cluster_pca) | ([:star:Assignment Report](4_cluster_pca/4_Assignment-3_cluster_pca.pdf)) Cluster Analysis and Principal Component Analysis in R (Cluster Dendrogram, silhouette plot, evaluating 3D clusters etc.) 
 ⋅⋅⋅5. [**Classification**](https://github.com/bryce-bowles/lending-club/tree/main/5_classification) | Logistic Regression and Classification Trees
 ⋅⋅⋅6. [**Evaluating Classification Methods in R**](https://github.com/bryce-bowles/lending-club/tree/main/6_class_eval) | ([:star:Assignment Report](6_class_eval/6_Assignment4.pdf)) A/B testing or partitioning data, Logistic Regression, Classification Trees, ROC Curves, AUC, Categorical Variables with Many Levels 
