@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 - ⚡ Persistent curiosity, continuous desire to solve problems and excellent communication skills with the ability to build lasting relationships  
   
 
-- 📶 I welcome you to join me on a data/tech learning journey! To get to know me more, I highly encourage you to view my [Academic Portfolio](Bryce_Bowles_CV.pdf) and [Resume](Bryce_Bowles_Resume.pdf). Feel free to connect on [LinkedIn](http://www.linkedin.com/in/bryce-bowles) or give me a follow on [Datacamp](https://www.datacamp.com/profile/bowlesbe) to stay in the loop!
+- 📶 I welcome you to join me on my data/tech learning journey! To get to know me more, I highly encourage you to view my [Academic Portfolio](Bryce_Bowles_CV.pdf) and [Resume](Bryce_Bowles_Resume.pdf). Feel free to connect on [LinkedIn](http://www.linkedin.com/in/bryce-bowles) or give me a follow on [Datacamp](https://www.datacamp.com/profile/bowlesbe) to stay in the loop!
   
 ![](https://komarev.com/ghpvc/?username=bryce-bowles&color=green)
 
