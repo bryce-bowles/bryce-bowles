@@ -124,7 +124,7 @@ Here are some ideas to get you started:
 * Statistical Fundamentals of Business MGMT 
 * Quality Management and 6 Sigma
 
-[Course Info](https://github.com/bryce-bowles/MDA_Course-info)
+### [Course Description Repository](https://github.com/bryce-bowles/MDA_Course-info)
   
 </td></tr></table>  
 
