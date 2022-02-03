@@ -181,13 +181,13 @@ flow, data preparation, visualization, cluster analysis, predictive modeling, an
 ### Statistical Analysis and Modeling
 * [Midterm Report](https://github.com/bryce-bowles/statistical-modeling-R.git) Descriptive statistics, Confidence intervals, z-test for two independent samples / Two-tailed test, scattergrams, box plots, Analysis of Variance, p-values, root mean square error, R2, Akaike’s AIC Best model, Multicollinearity Variance Inflation Factors, etc. 
 * [Whiskey Analysis](https://github.com/bryce-bowles/whiskey-prediction.git) Logistic regression model to predict the best and worst whiskeys using Confusion Matrix with training and validation samples. Correlation matrix, goodness of fit statistics, Hosmer-Lemeshow test, chi-squared, confusion matrix, Scatter plots, box plots etc.
-Other models using .R and R-Studio
-*	[TSPlots.R](https://github.com/bryce-bowles/ts-plots.R.git) 
-*	[TSRegression.R](https://github.com/bryce-bowles/ts-regression.R.git) 
-*	[TSDecomposition.R](https://github.com/bryce-bowles/ts-decomposition.R.git)
-*	[ExponentialSmoothing.R](https://github.com/bryce-bowles/ts-exponential-smoothing.git) 
-*	[Differencing.R](https://github.com/bryce-bowles/differencing.git) - Must detrend before doing ARIMA
-*	[ARIMA.R](https://github.com/bryce-bowles/arima-r.git) 
+* Other models using .R and R-Studio
+    *	[TSPlots.R](https://github.com/bryce-bowles/ts-plots.R.git) 
+    *	[TSRegression.R](https://github.com/bryce-bowles/ts-regression.R.git) 
+    *	[TSDecomposition.R](https://github.com/bryce-bowles/ts-decomposition.R.git)
+    *	[ExponentialSmoothing.R](https://github.com/bryce-bowles/ts-exponential-smoothing.git) 
+    *	[Differencing.R](https://github.com/bryce-bowles/differencing.git) - Must detrend before doing ARIMA
+    *	[ARIMA.R](https://github.com/bryce-bowles/arima-r.git) 
 ---------
 
 ### Database Management (SQL/ PostgreSQL)
