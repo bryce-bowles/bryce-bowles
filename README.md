@@ -235,13 +235,13 @@ Other models using .R and R-Studio
   * Environmental Assessment
   * Strategic Review
   * Growth through Acquisition
-* [Uber’s Failing Brand and Culture Analysis](https://github.com/bryce-bowles/uber-culture.git)
-* [Lowe’s Case Assessment](https://github.com/bryce-bowles/lowes-case-assessment.git)
+* [Uber’s Failing Brand and Culture Analysis](https://github.com/bryce-bowles/uber-culture.git) Uber Technologies Inc. brand analysis research report describing brand culture and change strategy. Historical strategic context of the brand, the role culture played in the performance decline of the brand, how the culture impacted financial performance, and how they are attempting to transform and renew the culture.
+* [Lowe’s Case Assessment](https://github.com/bryce-bowles/lowes-case-assessment.git) Lowe’s industry analysis for the market space, brand positioning, environmental assessment, and strategic opportunities/dilemmas.
 ---------
 
 ### Quality Management and Six Sigma
-* [Time Series Apple Watch Workout Analysis](https://github.com/bryce-bowles/TS-Apple_Watch_Data)
+* [Time Series Apple Watch Workout Analysis](https://github.com/bryce-bowles/TS-Apple_Watch_Data) Time series health workout data was extracted from my Apple watch to analyze workout variables. A Scope, descriptive statistics, pivot tables, C-Chart and scatter plots were created to check workouts outside of control. Tableau work was used to display correlations.
 
 ### Data Centric Reengineering
-* [Opioid Prescribing Rates Analysis](https://github.com/bryce-bowles/opioid-prescribing-rates.git)
-* [Children’s Bureau Race and Ethnicity Analysis](https://github.com/bryce-bowles/childrens-bureau-race-analysis.git)
+* [Opioid Prescribing Rates Analysis](https://github.com/bryce-bowles/opioid-prescribing-rates.git) Semester long project working with Virginia Department of Social Services to assist in data centric reengineer useful data into VA’s major FAACT database. Tableau dashboard analysis and presentation created using data from 2016 to 2019 on Medicare Prescribing rates. 
+* [Children’s Bureau Race and Ethnicity Analysis](https://github.com/bryce-bowles/childrens-bureau-race-analysis.git) General statistics on the race and ethnicity of children in foster care analyzing statistics on variables such as Child Maltreatment, Children Waiting for Adoption, children adopted etc.
