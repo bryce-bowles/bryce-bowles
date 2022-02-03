@@ -149,16 +149,20 @@ Courses:
 
 ### Advanced Decision Analytics / Management Science
 (Machine Learning: Deterministic and Probabilistic Modeling, Optimization, Simulation) 
-* :star: [Federal Reserve Bank of Richmond Workspace Allocation Optimization](https://github.com/bryce-bowles/office-workspace-optimization.git)
-* [Optimization and Simulation Proposal for SCC Bureau of Insurance](https://github.com/bryce-bowles/helpdesk-optimization-proposal.git) 
-* [Mobile Munchies](https://github.com/bryce-bowles/mobile-munchies)
-* [Diet Problem and Manufacturing Problem](https://github.com/bryce-bowles/diet-and-manufacturing-optimization)
+* :star: [Federal Reserve Bank of Richmond Workspace Allocation Optimization](https://github.com/bryce-bowles/office-workspace-optimization.git) Won Optimization model class competition issued by Dr. Brooks (M.D.A. department chair and professor). Proposed Python, Pyomo and GLPK network optimization model approach with binary variables and logical constraints to simulate reorganization of 1700 workspaces across 17 floors, while allocating for changing project teams and requirements. Provided report to IT Vice President, Christine Holzem at the Federal Reserve Bank of Richmond.
+* [Optimization and Simulation Proposal for SCC Bureau of Insurance](https://github.com/bryce-bowles/helpdesk-optimization-proposal.git) Proposed optimization and simulation framework to benefit helpdesk request distribution and simulate future request volume. 
+* [Mobile Munchies](https://github.com/bryce-bowles/mobile-munchies) Mobile Munchies is deciding how much of each type of juice to prepare for the week. Given the ingredients and cost, a python model using Pyomo and GLPK determined the optimal amount of each type of lemonade to produce so the profits maximized subject to the constraints. 
+* [Diet Problem and Manufacturing Problem](https://github.com/bryce-bowles/diet-and-manufacturing-optimization) Decided how much of each of each dessert to consume per day so that taste index is maximized, and calories and grams of fat are minimized, subject to constraints (Algebraic Formulation). 
 * [Red Tomato Gardening Tools and Sporting Goods Company](https://github.com/bryce-bowles/Red-Tomato-gardening-tools)
+    -	Demand forecast optimization problem model using Python, Pyomo and GLPK in Python. Multifactor objectives and constraints solved using algebraic formulation to allocate and minimize cost.  
+    -	Excel Solver used to allocate how much of each product to produce so that profit is maximized
+
  
 ----------
 
 ### Business Data Analytics 
 (Machine Learning, Classification Trees, Regression, Random Forests, Support Vector Machines, etc.)
+* :star: [Alchemy Broker Analysis Project](https://github.com/bryce-bowles/alchemy-broker-modeling.git): Performed segmentation analysis and predictive modeling on insurance broker performance to conclude a random forest model (highest AUC of 73%) predicted whether 2020 Gross Written Premium will increase or decrease from 2019 with a misclassification rate of 35%. Four classification models (classification trees, logistic regression, random forests, and support vector machines) were built, evaluated, and then tuned for prescriptive measures to analyze broker performance. Explored, visualized, and described five groups of brokers using principal component analysis.
 * :star: :star: [Lending Club Data Analytics  in R](https://github.com/bryce-bowles/lending-club.git): Topics include the analytics work
 flow, data preparation, visualization, cluster analysis, predictive modeling, and learning-enabled optimization. The Lending Club data is a mix of numeric, character, factor, and date data.
   1. [**Importing the data**](https://github.com/bryce-bowles/lending-club/tree/main/1_importing_data)  | To an acceptable format to use in r.
@@ -172,13 +176,13 @@ flow, data preparation, visualization, cluster analysis, predictive modeling, an
   9. [**Regression Models**](https://github.com/bryce-bowles/lending-club/tree/main/9_regression) | Linear Regression, Regression Tree
   10. [**Optimization**](https://github.com/bryce-bowles/lending-club/tree/main/10_optimization) | Calculating Estimated Return, Build Predictive Models and Determining an Optimal Portfolio
 
-* :star: [Alchemy Broker Analysis Project](https://github.com/bryce-bowles/alchemy-broker-modeling.git): Performed segmentation analysis and predictive modeling on insurance broker performance to conclude a random forest model (highest AUC of 73%) predicted whether 2020 Gross Written Premium will increase or decrease from 2019 with a misclassification rate of 35%. Four classification models (classification trees, logistic regression, random forests, and support vector machines) were built, evaluated, and then tuned for prescriptive measures to analyze broker performance. Explored, visualized, and described five groups of brokers using principal component analysis.
+
 * [Business Data Analytics Overview](https://github.com/bryce-bowles/business-data-analytics.git): Terms, classification models, test and training dataset splits, logistic regression models, classification tree models, ROC curves, AUC, confusion matrix, support vector machines, variance, bias, leakage, MAE and RMSE, R squared, LASSO approach (penalty on the coefficients) etc.
 ----------
 
 ### Statistical Analysis and Modeling
-* [Midterm Report](https://github.com/bryce-bowles/statistical-modeling-R.git) **(still cleaning up)**
-* [Whiskey Analysis](https://github.com/bryce-bowles/whiskey-prediction.git)
+* [Midterm Report](https://github.com/bryce-bowles/statistical-modeling-R.git) Descriptive statistics, Confidence intervals, z-test for two independent samples / Two-tailed test, scattergrams, box plots, Analysis of Variance, p-values, root mean square error, R2, Akaike’s AIC Best model, Multicollinearity Variance Inflation Factors, etc. 
+* [Whiskey Analysis](https://github.com/bryce-bowles/whiskey-prediction.git) Logistic regression model to predict the best and worst whiskeys using Confusion Matrix with training and validation samples. Correlation matrix, goodness of fit statistics, Hosmer-Lemeshow test, chi-squared, confusion matrix, Scatter plots, box plots etc.
 
 Other models using .R and R-Studio
 *	[TSPlots.R](https://github.com/bryce-bowles/ts-plots.R.git) 
@@ -190,33 +194,39 @@ Other models using .R and R-Studio
 ---------
 
 ### Database Management (SQL/ PostgreSQL)
-* [Taylor’s Clothing DBMS](https://github.com/bryce-bowles/taylor-clothing-dbms.git)
-* :star: [Automated Systems DBMS](https://github.com/bryce-bowles/scc-work-dbms.git)
+* :star: [Automated Systems DBMS](https://github.com/bryce-bowles/scc-work-dbms.git) Completed and proposed an Automated Systems Database to Manager - also created a MS Power BI Version. Centralized Relational SQL Database to help produce the appropriate roles for a position, creating consistency throughout departments and job titles (with the exception of optional roles for additional access) and reduce the number of access roles that are kept when changing positions. The DBMS unifies and consolidates system access to improve data security.
+* [Taylor’s Clothing DBMS](https://github.com/bryce-bowles/taylor-clothing-dbms.git) Business rules, user requirements, ER diagram, entity relationships etc. (Oracle APEX)
+
 ---------
 
 ### Decision and Risk Analytics (Decision Tree and Influence Diagram)
-* [Decision Tree and Influence Diagram Scenarios](https://github.com/bryce-bowles/decision-tree-midterm.git)
-* :star: [Project Proposal Decision Tree](https://github.com/bryce-bowles/career-change-decision-tree.git)
+* :star: [Project Proposal Decision Tree](https://github.com/bryce-bowles/career-change-decision-tree.git) Objectives, uncertainties, influence diagram, assumptions, decision tree model, probability and cumulative comparison node chart (supporting documents – proposal, excel analysis and presentation)
+* [Decision Tree and Influence Diagram Scenarios](https://github.com/bryce-bowles/decision-tree-midterm.git) Probabilities, Decision Trees and Influence Diagram scenarios
+
 ---------
 
 ### Business Intelligence (Visuals)
-* [Car Loan Negotiation](https://github.com/bryce-bowles/car-loan-negotiation_goal-seek.git)
-* [Norton Engines](https://github.com/bryce-bowles/norton-engines.git)
-* [Music Sales](https://github.com/bryce-bowles/music-sales.git)
-* [Airbnb](https://github.com/bryce-bowles/airbnb.git)
-* [IRIS Flower Data](https://github.com/bryce-bowles/iris-flower.git)
-* [Census Clustering](https://github.com/bryce-bowles/census-clustering.git)
-* [Lending Club Loan Analysis](https://github.com/bryce-bowles/lending-club-loan-analysis.git) 
-* [Netflix Student Competition](https://github.com/bryce-bowles/netflix-student-competition.git)
+* [Car Loan Negotiation](https://github.com/bryce-bowles/car-loan-negotiation_goal-seek.git) Used Excel Goal seek to negotiate a car purchased with variables such as Price, APR, Years, Payment/month.
+* [Norton Engines](https://github.com/bryce-bowles/norton-engines.git) Optimization analysis solved using Excel solver, sensitivity analysis, and slack. To optimally maximize profits, Norton Engines should produce 1000 Type A engines and 500 Type B engines for a total profit of $6,600,000. 
+* [Music Sales](https://github.com/bryce-bowles/music-sales.git) Music sales displayed in a Tableau dashboard with a variety of graphs
+* [Airbnb](https://github.com/bryce-bowles/airbnb.git) A couple is deciding where to rent at an Airbnb in New York. Our team helped evaluate factors we thought would help them choose the best location using a Tableau dashboard story. 
+* [IRIS Flower Data](https://github.com/bryce-bowles/iris-flower.git) K-Means cluster analysis conducted using KNIME and Tableau
+* [Census Clustering](https://github.com/bryce-bowles/census-clustering.git) US Census Bureau data K-Means cluster analysis and Logistic Regression conducted using KNIME and Tableau
+* [Lending Club Loan Analysis](https://github.com/bryce-bowles/lending-club-loan-analysis.git) We are a group of investors, looking for the target group of people to give out a personal loan with expectations that it will be fully paid off. Used KNIME logistic regression and MS Excel data table to conclude our target group and focus factors.
+* [Netflix Student Competition](https://github.com/bryce-bowles/netflix-student-competition.git) Netflix data, such as Average user rating score and average rating description, visualized via Tableau dashboard 
 ---------
  
 ### Forecasting Methods
-* :star: [Richmond Bank Total Core Deposit Forecasts](https://github.com/bryce-bowles/tsf-richmond-bank.git)
-* [Richmond Casino Proposal Analysis](https://github.com/bryce-bowles/richmond-casino-analysis.git)
-* [New Product Forecasting](https://github.com/bryce-bowles/new-product-forecasting-concepts.git)
-* [Forecasting with R](https://github.com/bryce-bowles/forecasting_with_R.git)
+* :star: [Richmond Bank Total Core Deposit Forecasts](https://github.com/bryce-bowles/tsf-richmond-bank.git) Using MS Excel and R, accurately forecasted total core deposit data from a Richmond Bank. The Holt’s Linear Exponential Smoothing had the overall lowest “Quick and Dirty” MAPE (1.2%), the lowest overall Maximum MAPE (3.49%), and consistently more accurate projections for each of the forecast horizons. Overall, the Unaided, Holts Linear Exponential Smoothing, and both regressions overestimated while the Naïve, 12 Month (M) Center Moving Average (CMA), 3M Moving Average (MA), 6M MA, Damped Trend Exponential Smoothing, and Simple Exponential Smoothing underestimated. 
+* [Richmond Casino Proposal Analysis](https://github.com/bryce-bowles/richmond-casino-analysis.git) Research analysis completed on the proposal of a Richmond, VA Casino presentation including history/background, economic/revenue impact, frustrations, process etc. 
+* [New Product Forecasting](https://github.com/bryce-bowles/new-product-forecasting-concepts.git) New product forecasting concepts (such as Delphi method, Assumptions Based, ATAR model, and Sensitivity Analysis) used to forecast and present an innovative smart sticky note printer.
+* [Forecasting with R](https://github.com/bryce-bowles/forecasting_with_R.git) Forecasting described from the perspective of using R and R studio software. 
 * [KJ Manufacturing Company Case Scenario](https://github.com/bryce-bowles/KJ-manufacturing-TSF.git)
-* [Time Series Forecasting Final Exam](https://github.com/bryce-bowles/forecasting-final-exam.git)
+    1.	Discussed the forecasting process at KJ Manufacturing, any relevant factors about the company and industry that are pertinent to the new forecast and Ken’s forecast. 
+    2.	Forecasted monthly revenues for KJ Manufacturing for the coming year. Used a variety of methods and graphically displayed them. Explained and supported the new forecasting approach as well as the choice of models and the rational for parameters selected. 
+    3.	Prepared a report to owner explaining/supporting the forecast.
+
+* [Time Series Forecasting Final Exam](https://github.com/bryce-bowles/forecasting-final-exam.git) Comprehensive review with questions and answers on all topics learned including a variety of forecasting methods and examples.  Case scenarios to answer questions on topics such as confidence intervals, forecast adjustments, classical decomposition, exponential smoothing, Croston’s method, holt’s Exponential Smoothing, MSE,  and , seasonal adjusted series, Damping Coefficient, difference Autocorrelation, MAPE, take-off points etc.
 ---------
 
 ### Business Policy and Strategy
