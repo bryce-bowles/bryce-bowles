@@ -109,8 +109,8 @@ Here are some ideas to get you started:
 ![rams-logo](https://user-images.githubusercontent.com/65502025/150581184-d2fb9f91-94ec-4b0f-85e8-c2623c79e599.png)
 
 ### MS Decision Analytics (MDA)
-* For Hiring Managers: [Course Descriptions Repository](https://github.com/bryce-bowles/MDA_Course-info)
-* For Recruiters: [Academic Portfolio Document](Bryce_Bowles_CV.pdf)
+* [Course Descriptions GitHub Repository](https://github.com/bryce-bowles/MDA_Course-info)
+* [Academic Portfolio Document](Bryce_Bowles_CV.pdf) (PDF)
     * [Academic Transcript](Academic-Transcript.pdf)
     * [Recommendation Letters](https://github.com/bryce-bowles/MDA_Course-info/tree/main/Recommendation-Letters)
     * [Statement of Intent](https://github.com/bryce-bowles/MDA_Course-info/blob/ba6cc7d0035d19d8db8c3b8d537e159199c83156/Statement%20of%20Intent%20Final.pdf)
