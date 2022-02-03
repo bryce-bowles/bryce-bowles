@@ -95,7 +95,7 @@ Here are some ideas to get you started:
 </div>
 
 * Python (python 3, Juypter Notebooks): Pandas, NumPy, SciPy, Pyomo, GLPK, Matplotlib, Scikit Learn, Plotly
-* R (R-Studio): Dplyr, Ggplot2, Caret, Plotly, rpart, randomForest, data.table etc.
+* R (R-Studio): Dplyr, Ggplot2, Caret, Plotly, rpart, randomForest, data.table, tidy/tsibble etc.
 * SQL (Postgres SQL, SQL Server, AQT, Oracle APEX)
 * JSON (framework)
 * MS Excel
