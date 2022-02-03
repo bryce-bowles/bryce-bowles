@@ -94,7 +94,7 @@ Here are some ideas to get you started:
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
 </div>
 
-* Python (python 3, Juypter Notebooks): NumPy, Pyomo, GLPK, Matplotlib, Scikit Learn, TensorFlow
+* Python (python 3, Juypter Notebooks): Pandas, NumPy, SciPy, Pyomo, GLPK, Matplotlib, Scikit Learn, Plotly
 * JSON
 * R (R-Studio): Dplyr, Ggplot2, Caret, Plotly, rpart, randomForest, data.table etc.
 * SQL (Postgres SQL, SQL Server, AQT, Oracle APEX)
