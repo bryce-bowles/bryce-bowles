@@ -175,15 +175,12 @@ flow, data preparation, visualization, cluster analysis, predictive modeling, an
   8. [**Choosing the Best Classifier**](https://github.com/bryce-bowles/lending-club/tree/main/8_Choosing_the_best_classifier)
   9. [**Regression Models**](https://github.com/bryce-bowles/lending-club/tree/main/9_regression) | Linear Regression, Regression Tree
   10. [**Optimization**](https://github.com/bryce-bowles/lending-club/tree/main/10_optimization) | Calculating Estimated Return, Build Predictive Models and Determining an Optimal Portfolio
-
-
 * [Business Data Analytics Overview](https://github.com/bryce-bowles/business-data-analytics.git): Terms, classification models, test and training dataset splits, logistic regression models, classification tree models, ROC curves, AUC, confusion matrix, support vector machines, variance, bias, leakage, MAE and RMSE, R squared, LASSO approach (penalty on the coefficients) etc.
 ----------
 
 ### Statistical Analysis and Modeling
 * [Midterm Report](https://github.com/bryce-bowles/statistical-modeling-R.git) Descriptive statistics, Confidence intervals, z-test for two independent samples / Two-tailed test, scattergrams, box plots, Analysis of Variance, p-values, root mean square error, R2, Akaike’s AIC Best model, Multicollinearity Variance Inflation Factors, etc. 
 * [Whiskey Analysis](https://github.com/bryce-bowles/whiskey-prediction.git) Logistic regression model to predict the best and worst whiskeys using Confusion Matrix with training and validation samples. Correlation matrix, goodness of fit statistics, Hosmer-Lemeshow test, chi-squared, confusion matrix, Scatter plots, box plots etc.
-
 Other models using .R and R-Studio
 *	[TSPlots.R](https://github.com/bryce-bowles/ts-plots.R.git) 
 *	[TSRegression.R](https://github.com/bryce-bowles/ts-regression.R.git) 
@@ -225,7 +222,6 @@ Other models using .R and R-Studio
     1.	Discussed the forecasting process at KJ Manufacturing, any relevant factors about the company and industry that are pertinent to the new forecast and Ken’s forecast. 
     2.	Forecasted monthly revenues for KJ Manufacturing for the coming year. Used a variety of methods and graphically displayed them. Explained and supported the new forecasting approach as well as the choice of models and the rational for parameters selected. 
     3.	Prepared a report to owner explaining/supporting the forecast.
-
 * [Time Series Forecasting Final Exam](https://github.com/bryce-bowles/forecasting-final-exam.git) Comprehensive review with questions and answers on all topics learned including a variety of forecasting methods and examples.  Case scenarios to answer questions on topics such as confidence intervals, forecast adjustments, classical decomposition, exponential smoothing, Croston’s method, holt’s Exponential Smoothing, MSE,  and , seasonal adjusted series, Damping Coefficient, difference Autocorrelation, MAPE, take-off points etc.
 ---------
 
