@@ -109,10 +109,10 @@ Here are some ideas to get you started:
 ![rams-logo](https://user-images.githubusercontent.com/65502025/150581184-d2fb9f91-94ec-4b0f-85e8-c2623c79e599.png)
 
 ### MS Decision Analytics 
-  
+
 #### Course Description [Repository](https://github.com/bryce-bowles/MDA_Course-info)
 #### Academic Portfolio [PDF Report](Bryce_Bowles_CV.pdf)
-  
+Courses:  
 * Advanced Decision Analytics / Management Science
 * Analysis and Design of Database Systems
 * Business Data Analytics
