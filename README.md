@@ -96,7 +96,7 @@ Here are some ideas to get you started:
 
 * Python (python 3, Juypter Notebooks): NumPy, Pyomo, GLPK, Matplotlib, Scikit Learn, TensorFlow
 * JSON
-* R (R-Studio): Dplyr, Ggplot2, 
+* R (R-Studio): Dplyr, Ggplot2, Caret, Plotly, rpart, randomForest
 * SQL (Postgres SQL, SQL Server, AQT, Oracle APEX)
 * MS Excel
   * Goal seek, solver, Palisade Decision Tools (Risk for Monte Carlo simulation, Precision Tree for decision trees and StatTools for statistical analysis and forecasting)
