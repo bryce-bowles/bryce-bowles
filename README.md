@@ -197,8 +197,6 @@ Other models using .R and R-Studio
 ---------
 
 ### Business Intelligence (Visuals)
-* [Opioid Prescribing Rates Analysis](https://github.com/bryce-bowles/opioid-prescribing-rates.git)
-* [Children’s Bureau Race and Ethnicity Analysis](https://github.com/bryce-bowles/childrens-bureau-race-analysis.git)
 * [Car Loan Negotiation](https://github.com/bryce-bowles/car-loan-negotiation_goal-seek.git)
 * [Norton Engines](https://github.com/bryce-bowles/norton-engines.git)
 * [Music Sales](https://github.com/bryce-bowles/music-sales.git)
@@ -231,3 +229,6 @@ Other models using .R and R-Studio
 ### Quality Management and Six Sigma
 * [Time Series Apple Watch Workout Analysis](https://github.com/bryce-bowles/TS-Apple_Watch_Data)
 
+### Data Centric Reengineering
+* [Opioid Prescribing Rates Analysis](https://github.com/bryce-bowles/opioid-prescribing-rates.git)
+* [Children’s Bureau Race and Ethnicity Analysis](https://github.com/bryce-bowles/childrens-bureau-race-analysis.git)
