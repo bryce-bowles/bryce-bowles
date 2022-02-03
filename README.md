@@ -147,7 +147,7 @@ Courses:
 **Projects tagged with :star: are my personal favourites, do check them out!**
 </div> 
 
-### Advanced Decision Analytics 
+### Advanced Decision Analytics / Management Science
 (Machine Learning: Deterministic and Probabilistic Modeling, Optimization, Simulation) 
 * :star: [Federal Reserve Bank of Richmond Workspace Allocation Optimization](https://github.com/bryce-bowles/office-workspace-optimization.git)
 * [Optimization and Simulation Proposal for SCC Bureau of Insurance](https://github.com/bryce-bowles/helpdesk-optimization-proposal.git) 
