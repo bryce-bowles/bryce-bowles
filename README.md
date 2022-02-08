@@ -238,6 +238,7 @@ flow, data preparation, visualization, cluster analysis, predictive modeling, an
 
 ### Quality Management and Six Sigma
 * [Time Series Apple Watch Workout Analysis](https://github.com/bryce-bowles/TS-Apple_Watch_Data) Time series health workout data was extracted from my Apple watch to analyze workout variables. A Scope, descriptive statistics, pivot tables, C-Chart and scatter plots were created to check workouts outside of control. Tableau work was used to display correlations.
+----------
 
 ### Data Centric Reengineering
 * [Opioid Prescribing Rates Analysis](https://github.com/bryce-bowles/opioid-prescribing-rates.git) Semester long project working with Virginia Department of Social Services to assist in data centric reengineer useful data into VA’s major FAACT database. Tableau dashboard analysis and presentation created using data from 2016 to 2019 on Medicare Prescribing rates. 
