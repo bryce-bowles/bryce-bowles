@@ -179,7 +179,7 @@ flow, data preparation, visualization, cluster analysis, predictive modeling, an
 ----------
 
 ### Statistical Analysis and Modeling
-*  :star: [Course Concepts Repository](https://github.com/bryce-bowles/Statistical-Analysis-Modeling-Concepts.git)
+*  :star: [Course Concepts Repository](https://github.com/bryce-bowles/Statistical-Analysis-Modeling-Concepts.git) Statistical Analysis and Modeling concepts via R and XLSTAT
 * [Midterm Report](https://github.com/bryce-bowles/statistical-modeling-R.git) Descriptive statistics, Confidence intervals, z-test for two independent samples / Two-tailed test, scattergrams, box plots, Analysis of Variance, p-values, root mean square error, R2, Akaike’s AIC Best model, Multicollinearity Variance Inflation Factors, etc. 
 * [Whiskey Analysis](https://github.com/bryce-bowles/whiskey-prediction.git) Logistic regression model to predict the best and worst whiskeys using Confusion Matrix with training and validation samples. Correlation matrix, goodness of fit statistics, Hosmer-Lemeshow test, chi-squared, confusion matrix, Scatter plots, box plots etc.
 * Other models using .R and R-Studio
