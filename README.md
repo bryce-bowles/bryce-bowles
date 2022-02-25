@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 #### Aspiring Data Scientist or Machine Learning Engineer 👨‍💻 captivated in learning descriptive, predictive and prescriptive/decision analyses that enhance and optimize business processes with data driven decision making.   
   
 
-- 🎓 I've recently graduated with a Masters in Decision Analytics while working as an analyst full time 💼 in various data and technical roles  
+- 🎓 I've recently graduated with a Masters in Decision Analytics while [working as an analyst](https://github.com/bryce-bowles/SCC-Work-Experience.git) full time 💼 in various data and technical roles  
   
 
 - 🌱 I'm proficient in gathering, wrangling, modeling, visualizing and presenting data using R, Python Jupyter Notebooks, SQL/PostgreSQL, Tableau, MS Power BI, StatTools, PrecisionTree etc.  
