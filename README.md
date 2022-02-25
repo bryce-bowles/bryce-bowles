@@ -115,7 +115,7 @@ Here are some ideas to get you started:
     * [Recommendation Letters](https://github.com/bryce-bowles/MDA_Course-info/tree/main/Recommendation-Letters)
     * [Statement of Intent](https://github.com/bryce-bowles/MDA_Course-info/blob/ba6cc7d0035d19d8db8c3b8d537e159199c83156/Statement%20of%20Intent%20Final.pdf)
 
-Courses:  
+Proficient in:  
 * Advanced Decision Analytics / Management Science
 * Analysis and Design of Database Systems
 * Business Data Analytics
