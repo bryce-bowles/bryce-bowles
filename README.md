@@ -183,7 +183,7 @@ flow, data preparation, visualization, cluster analysis, predictive modeling, an
 * [Midterm Report](https://github.com/bryce-bowles/statistical-modeling-R.git) Descriptive statistics, Confidence intervals, z-test for two independent samples / Two-tailed test, scattergrams, box plots, Analysis of Variance, p-values, root mean square error, R2, Akaike’s AIC Best model, Multicollinearity Variance Inflation Factors, etc. 
 * [Whiskey Analysis](https://github.com/bryce-bowles/whiskey-prediction.git) Logistic regression model to predict the best and worst whiskeys using Confusion Matrix with training and validation samples. Correlation matrix, goodness of fit statistics, Hosmer-Lemeshow test, chi-squared, confusion matrix, Scatter plots, box plots etc.
 * Other models using .R and R-Studio
-    *	[TSPlots.R](https://github.com/bryce-bowles/ts-plots.R.git) 
+    *	[TSPlots.R](https://github.com/bryce-bowles/ts-plots.R.git) Time Series analysis concepts using examples in r. Multiple data sets were used to demonstrate reading in data, filtering, date conversion, plotting (autoplot, gg_season, gg_subseries, GGalley), seasonality, cross correlation, autocorrelation, ACF, lag, white noise etc.
     *	[TSRegression.R](https://github.com/bryce-bowles/ts-regression.R.git) 
     *	[TSDecomposition.R](https://github.com/bryce-bowles/ts-decomposition.R.git)
     *	[ExponentialSmoothing.R](https://github.com/bryce-bowles/ts-exponential-smoothing.git) 
