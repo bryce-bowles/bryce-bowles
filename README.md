@@ -192,7 +192,7 @@ flow, data preparation, visualization, cluster analysis, predictive modeling, an
  
    9. [Regression Models](https://github.com/bryce-bowles/lending-club/tree/main/9_regression) | Analyzing Linear Regression & Regression Tree factors (p-values, F-test, R2, ANOVA, MAE), Calculating Estimated Return, building predictive models etc.
   
-   10. [Optimization](https://github.com/bryce-bowles/lending-club/tree/main/10_optimization) | Calculating Estimated Return, Build Predictive Models and Determining an Optimal Portfolio
+   10. [Optimization](https://github.com/bryce-bowles/lending-club/tree/main/10_optimization) | Optimization examples, Calculating Estimated Return, Build Predictive Models and Determining an Optimal Lending Club Portfolio
 
 * [Business Data Analytics Overview](https://github.com/bryce-bowles/business-data-analytics.git): Terms, classification models, test and training dataset splits, logistic regression models, classification tree models, ROC curves, AUC, confusion matrix, support vector machines, variance, bias, leakage, MAE and RMSE, R squared, LASSO approach (penalty on the coefficients) etc.
 ----------
