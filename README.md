@@ -190,7 +190,7 @@ flow, data preparation, visualization, cluster analysis, predictive modeling, an
   
    8. [Choosing the Best Classifier](https://github.com/bryce-bowles/lending-club/tree/main/8_Choosing_the_best_classifier)
  
-   9. [Regression Models](https://github.com/bryce-bowles/lending-club/tree/main/9_regression) | Linear Regression, Regression Tree
+   9. [Regression Models](https://github.com/bryce-bowles/lending-club/tree/main/9_regression) | Analyzing Linear Regression & Regression Tree factors (p-values, F-test, R2, ANOVA, MAE), Calculating Estimated Return, building predictive models etc.
   
    10. [Optimization](https://github.com/bryce-bowles/lending-club/tree/main/10_optimization) | Calculating Estimated Return, Build Predictive Models and Determining an Optimal Portfolio
 
