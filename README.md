@@ -170,29 +170,18 @@ Proficient in:
 
 * :star: :star: [Lending Club Data Analytics  in R](https://github.com/bryce-bowles/lending-club.git): Topics include the analytics work
 flow, data preparation, visualization, cluster analysis, predictive modeling, and learning-enabled optimization. The Lending Club data is a mix of numeric, character, factor, and date data.
- 1. [Importing the data](https://github.com/bryce-bowles/lending-club/tree/main/1_importing_data)  | To an acceptable format to use in r.
-  
- 2. [Data Prep](https://github.com/bryce-bowles/lending-club/tree/main/2_Data_Preparation) | Slicing, summarizing, missing values, aggregating, descriptive statistics, histograms, log transformation due to skewedness, normalizing and box plot of interest rate for each loan status
- 
- 3. [Visualization](https://github.com/bryce-bowles/lending-club/tree/main/3_visualization) | Histograms, log transformation due to skewedness, normalizing, box and whisker plot, Mosaic Plot, scatter plot, 3D Scatter, time series
- 
- 4. [Cluster_PCA](https://github.com/bryce-bowles/lending-club/tree/main/4_cluster_pca) - Cluster Analysis and Principal Component Analysis (PCA) in R (Cluster Dendrogram, silhouette plot, evaluating 3D clusters etc.) 
-     
-     * [:star:Lending Club Cluster and PCA Repository](https://github.com/bryce-bowles/lending-club-pca-cluster.git) - Using loan data, performed a Kmeans cluster analysis to identify 7 groups or clusters and two principal component analysis' (PCA) of borrowers with many variables. All preprocessing steps are explained. Used PCA to identify characteristics of each cluster. Evaluated how clusters compare to assigning applicants to clusters by loan grade. Comparrison supported with visuals.  
-
-  5. [Classification](https://github.com/bryce-bowles/lending-club/tree/main/5_classification) |  Logistic Regression, Classification Trees, confusion matrix, misclassification rate, etc.
-
-  6. [Evaluating Classification Methods in R](https://github.com/bryce-bowles/lending-club/tree/main/6_class_eval) - A/B testing or partitioning data, Logistic Regression, model fit, confusion matrix, Classification Trees, ROC Curves, AUC, Categorical Variables with Many Levels. 
-    
-     * [:star:Lending Club Classification Analysis Repository](https://github.com/bryce-bowles/lending-club-classification.git) - Built a logistic regression model and a classification tree model for predicting the final status of a loan based on multiple variables available. Confusion matrix and misclassification rate for each model for a test dataset. Includes variables that appear to be important for predicting outcome. Plotted and described the ROC curves and AUC for the four models to provide my recommendation. 
-
-   7. [Other Classification Methods in R](https://github.com/bryce-bowles/lending-club/tree/main/7_other_class) | Fitting Models, Random Forest, Support Vector Machine, Neural Networks and ROC Curves
-  
-   8. [Choosing the Best Classifier](https://github.com/bryce-bowles/lending-club/tree/main/8_Choosing_the_best_classifier)
- 
-   9. [Regression Models](https://github.com/bryce-bowles/lending-club/tree/main/9_regression) | Analyzing Linear Regression & Regression Tree factors (p-values, F-test, R2, ANOVA, MAE), Calculating Estimated Return, building predictive models etc.
-  
-   10. [Optimization](https://github.com/bryce-bowles/lending-club/tree/main/10_optimization) | Optimization examples, Calculating Estimated Return, Build Predictive Models and Determining an Optimal Lending Club Portfolio
+     1. [Importing the data](https://github.com/bryce-bowles/lending-club/tree/main/1_importing_data)  | To an acceptable format to use in r.
+     2. [Data Prep](https://github.com/bryce-bowles/lending-club/tree/main/2_Data_Preparation) | Slicing, summarizing, missing values, aggregating, descriptive statistics, histograms, log transformation due to skewedness, normalizing and box plot of interest rate for each loan status
+     3. [Visualization](https://github.com/bryce-bowles/lending-club/tree/main/3_visualization) | Histograms, log transformation due to skewedness, normalizing, box and whisker plot, Mosaic Plot, scatter plot, 3D Scatter, time series
+     4. [Cluster_PCA](https://github.com/bryce-bowles/lending-club/tree/main/4_cluster_pca) - Cluster Analysis and Principal Component Analysis (PCA) in R (Cluster Dendrogram, silhouette plot, evaluating 3D clusters etc.) 
+          * [:star:Lending Club Cluster and PCA Repository](https://github.com/bryce-bowles/lending-club-pca-cluster.git) - Using loan data, performed a Kmeans cluster analysis to identify 7 groups or clusters and two principal component analysis' (PCA) of borrowers with many variables. All preprocessing steps are explained. Used PCA to identify characteristics of each cluster. Evaluated how clusters compare to assigning applicants to clusters by loan grade. Comparrison supported with visuals.  
+     5. [Classification](https://github.com/bryce-bowles/lending-club/tree/main/5_classification) |  Logistic Regression, Classification Trees, confusion matrix, misclassification rate, etc.
+     6. [Evaluating Classification Methods in R](https://github.com/bryce-bowles/lending-club/tree/main/6_class_eval) - A/B testing or partitioning data, Logistic Regression, model fit, confusion matrix, Classification Trees, ROC Curves, AUC, Categorical Variables with Many Levels. 
+          * [:star:Lending Club Classification Analysis Repository](https://github.com/bryce-bowles/lending-club-classification.git) - Built a logistic regression model and a classification tree model for predicting the final status of a loan based on multiple variables available. Confusion matrix and misclassification rate for each model for a test dataset. Includes variables that appear to be important for predicting outcome. Plotted and described the ROC curves and AUC for the four models to provide my recommendation. 
+     7. [Other Classification Methods in R](https://github.com/bryce-bowles/lending-club/tree/main/7_other_class) | Fitting Models, Random Forest, Support Vector Machine, Neural Networks and ROC Curves
+     8. [Choosing the Best Classifier](https://github.com/bryce-bowles/lending-club/tree/main/8_Choosing_the_best_classifier)
+     9. [Regression Models](https://github.com/bryce-bowles/lending-club/tree/main/9_regression) | Analyzing Linear Regression & Regression Tree factors (p-values, F-test, R2, ANOVA, MAE), Calculating Estimated Return, building predictive models etc.
+     10. [Optimization](https://github.com/bryce-bowles/lending-club/tree/main/10_optimization) | Optimization examples, Calculating Estimated Return, Build Predictive Models and Determining an Optimal Lending Club Portfolio
 
 * [Business Data Analytics Overview](https://github.com/bryce-bowles/business-data-analytics.git): Terms, classification models, test and training dataset splits, logistic regression models, classification tree models, ROC curves, AUC, confusion matrix, support vector machines, variance, bias, leakage, MAE and RMSE, R squared, LASSO approach (penalty on the coefficients) etc.
 ----------
