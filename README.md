@@ -75,7 +75,7 @@ Here are some ideas to get you started:
 
 
 
-### Skills an Tools 
+### Skills and Tools 
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobeindesign.svg" alt="Adobe InDesign" height="50" />  
