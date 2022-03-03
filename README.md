@@ -141,6 +141,9 @@ Proficient in:
 
 <br/>  
 
+----
+## Virginia State Corporation Commission Work Experience
+* [Work Experience Repository](https://github.com/bryce-bowles/SCC-Work-Experience.git)
 
 ----
 ## Projects Completed
