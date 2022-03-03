@@ -181,7 +181,7 @@ flow, data preparation, visualization, cluster analysis, predictive modeling, an
      7. [Other Classification Methods in R](https://github.com/bryce-bowles/lending-club/tree/main/7_other_class) | Fitting Models, Random Forest, Support Vector Machine, Neural Networks and ROC Curves
      8. [Choosing the Best Classifier](https://github.com/bryce-bowles/lending-club/tree/main/8_Choosing_the_best_classifier)
      9. [Regression Models](https://github.com/bryce-bowles/lending-club/tree/main/9_regression) | Analyzing Linear Regression & Regression Tree factors (p-values, F-test, R2, ANOVA, MAE), Calculating Estimated Return, building predictive models etc.
-     10. [Optimization](https://github.com/bryce-bowles/lending-club/tree/main/10_optimization) | Optimization examples, Calculating Estimated Return, Build Predictive Models and Determining an Optimal Lending Club Portfolio
+     10. [Optimization](https://github.com/bryce-bowles/lending-club/tree/main/10_optimization) | Optimization examples, Calculating Estimated Return, Used Predictive Models to calculate an optimal Lending Club portfolio and optimal expected return
 
 * [Business Data Analytics Overview](https://github.com/bryce-bowles/business-data-analytics.git): Terms, classification models, test and training dataset splits, logistic regression models, classification tree models, ROC curves, AUC, confusion matrix, support vector machines, variance, bias, leakage, MAE and RMSE, R squared, LASSO approach (penalty on the coefficients) etc.
 ----------
