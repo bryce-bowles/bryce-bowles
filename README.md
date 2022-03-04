@@ -140,10 +140,13 @@ Proficient in:
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=bryce-bowles&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
+<br/> 
 
 ----
 ## Virginia State Corporation Commission Work Experience
 * [Work Experience Repository](https://github.com/bryce-bowles/SCC-Work-Experience.git)
+
+<br/> 
 
 ----
 ## Projects Completed
