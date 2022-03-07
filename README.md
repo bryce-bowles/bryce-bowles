@@ -167,7 +167,7 @@ Proficient in:
     -	Demand forecast optimization problem model using Python, Pyomo and GLPK in Python. Multifactor objectives and constraints solved using algebraic formulation to allocate and minimize cost.  
     -	Excel Solver used to allocate how much of each product to produce so that profit is maximized
 
- 
+ <br/> 
 ----------
 
 ### Business Data Analytics 
@@ -190,10 +190,16 @@ flow, data preparation, visualization, cluster analysis, predictive modeling, an
      10. [Optimization](https://github.com/bryce-bowles/lending-club/tree/main/10_optimization) | Optimization examples, Calculating Estimated Return, Used Predictive Models to calculate an optimal Lending Club portfolio and optimal expected return
 
 * [Business Data Analytics Overview](https://github.com/bryce-bowles/business-data-analytics.git): Terms, classification models, test and training dataset splits, logistic regression models, classification tree models, ROC curves, AUC, confusion matrix, support vector machines, variance, bias, leakage, MAE and RMSE, R squared, LASSO approach (penalty on the coefficients) etc.
+<br/> 
 ----------
 
 ### Statistical Analysis and Modeling
-*  :star: [Course Concepts Repository](https://github.com/bryce-bowles/Statistical-Analysis-Modeling-Concepts.git) Statistical Analysis and Modeling concepts via R and XLSTAT
+
+* :star: [Statistical Analysis and Modeling Concepts Concepts Repository](https://github.com/bryce-bowles/Statistical-Analysis-Modeling-Concepts.git) 
+
+Statistical analysis and modeling for decision analytics via R and XLSTAT. Topics covered had an applied focus and include logistic regression, bootstrap estimation, permutation tests, categorical data analysis, model selection, sparse methods and Bayesian methods. Repository includes topics covered per module. 
+
+Topics: Data Visualization in Tableau, Confidence Intervals, Hypothesis Testing, XLSTAT and R, One-way Analysis of Variance, Two-way Analysis of Variance, Designed Experiments, scatter plots and correlations simple linear regression, Introduction to multiple regression, Dummy variables, Interaction Terms, Inference for multiple regression, Testing for and fixing problems, multicollinearity, outliers, heteroscedasticity, non-normality, Stepwise regression, Prediction, Cross-validation, Sparse Methods, Lasso regression, Correlated predictors, Ridge regression, Classification Methods, Logistic regression, Neural networks, Classification trees, Clustering, K-means clustering, Hierarchical clustering, Normal mixtures, Bootstrap methods, Forecasting, Diagnostic tools, Testing for randomness, Linear and exponential trends, Dummy seasonality variables, Moving averages and decomposition, Forecasting, Exponential smoothing, ARIMA models, Time Series Forecasting
 
 * [Midterm Report](https://github.com/bryce-bowles/statistical-modeling-R.git) Descriptive statistics, Confidence intervals, z-test for two independent samples / Two-tailed test, scattergrams, box plots, Analysis of Variance, p-values, root mean square error, R2, Akaike’s AIC Best model, Multicollinearity Variance Inflation Factors, etc. 
 
@@ -206,20 +212,21 @@ flow, data preparation, visualization, cluster analysis, predictive modeling, an
     *	[ExponentialSmoothing.R](https://github.com/bryce-bowles/ts-exponential-smoothing.git) 
     *	[Differencing.R](https://github.com/bryce-bowles/differencing.git) - Must detrend before doing ARIMA
     *	[ARIMA.R](https://github.com/bryce-bowles/arima-r.git) 
+<br/> 
 ---------
 
 ### Database Management (SQL/ PostgreSQL)
 * :star: [Automated Systems DBMS](https://github.com/bryce-bowles/scc-work-dbms.git) Completed and proposed an Automated Systems Database to Manager - also created a MS Power BI Version. Centralized Relational SQL Database to help produce the appropriate roles for a position, creating consistency throughout departments and job titles (with the exception of optional roles for additional access) and reduce the number of access roles that are kept when changing positions. The DBMS unifies and consolidates system access to improve data security.
 
 * [Taylor’s Clothing DBMS](https://github.com/bryce-bowles/taylor-clothing-dbms.git) Business rules, user requirements, ER diagram, entity relationships etc. (Oracle APEX)
-
+<br/> 
 ---------
 
 ### Decision and Risk Analytics (Decision Tree and Influence Diagram)
 * :star: [Project Proposal Decision Tree](https://github.com/bryce-bowles/career-change-decision-tree.git) Objectives, uncertainties, influence diagram, assumptions, decision tree model, probability and cumulative comparison node chart (supporting documents – proposal, excel analysis and presentation)
 
 * [Decision Tree and Influence Diagram Scenarios](https://github.com/bryce-bowles/decision-tree-midterm.git) Probabilities, Decision Trees and Influence Diagram scenarios
-
+<br/> 
 ---------
 
 ### Business Intelligence (Visuals)
@@ -238,6 +245,7 @@ flow, data preparation, visualization, cluster analysis, predictive modeling, an
 * [Lending Club Loan Analysis](https://github.com/bryce-bowles/lending-club-loan-analysis.git) We are a group of investors, looking for the target group of people to give out a personal loan with expectations that it will be fully paid off. Used KNIME logistic regression and MS Excel data table to conclude our target group and focus factors.
 
 * [Netflix Student Competition](https://github.com/bryce-bowles/netflix-student-competition.git) Netflix data, such as Average user rating score and average rating description, visualized via Tableau dashboard 
+<br/> 
 ---------
  
 ### Forecasting Methods
@@ -255,6 +263,7 @@ flow, data preparation, visualization, cluster analysis, predictive modeling, an
     3.	Prepared a report to owner explaining/supporting the forecast.
 
 * [Time Series Forecasting Final Exam](https://github.com/bryce-bowles/forecasting-final-exam.git) Comprehensive review with questions and answers on all topics learned including a variety of forecasting methods and examples.  Case scenarios to answer questions on topics such as confidence intervals, forecast adjustments, classical decomposition, exponential smoothing, Croston’s method, holt’s Exponential Smoothing, MSE,  and , seasonal adjusted series, Damping Coefficient, difference Autocorrelation, MAPE, take-off points etc.
+<br/> 
 ---------
 
 ### Business Policy and Strategy
@@ -267,10 +276,12 @@ flow, data preparation, visualization, cluster analysis, predictive modeling, an
 * [Uber’s Failing Brand and Culture Analysis](https://github.com/bryce-bowles/uber-culture.git) Uber Technologies Inc. brand analysis research report describing brand culture and change strategy. Historical strategic context of the brand, the role culture played in the performance decline of the brand, how the culture impacted financial performance, and how they are attempting to transform and renew the culture.
 
 * [Lowe’s Case Assessment](https://github.com/bryce-bowles/lowes-case-assessment.git) Lowe’s industry analysis for the market space, brand positioning, environmental assessment, and strategic opportunities/dilemmas.
+<br/> 
 ---------
 
 ### Quality Management and Six Sigma
 * [Time Series Apple Watch Workout Analysis](https://github.com/bryce-bowles/TS-Apple_Watch_Data) Time series health workout data was extracted from my Apple watch to analyze workout variables. A Scope, descriptive statistics, pivot tables, C-Chart and scatter plots were created to check workouts outside of control. Tableau work was used to display correlations.
+<br/> 
 ----------
 
 ### Data Centric Reengineering
