@@ -221,45 +221,6 @@ Topics: Data Visualization in Tableau, Confidence Intervals, Hypothesis Testing,
 <br/> 
 
 ---------
-
-### Database Management (SQL/ PostgreSQL)
-* :star: [Automated Systems DBMS](https://github.com/bryce-bowles/scc-work-dbms.git) Completed and proposed an Automated Systems Database to Manager - also created a MS Power BI Version. Centralized Relational SQL Database to help produce the appropriate roles for a position, creating consistency throughout departments and job titles (with the exception of optional roles for additional access) and reduce the number of access roles that are kept when changing positions. The DBMS unifies and consolidates system access to improve data security.
-
-* [Taylor’s Clothing DBMS](https://github.com/bryce-bowles/taylor-clothing-dbms.git) Business rules, user requirements, ER diagram, entity relationships etc. (Oracle APEX)
-
-<br/> 
-
----------
-
-### Decision and Risk Analytics (Decision Tree and Influence Diagram)
-* :star: [Project Proposal Decision Tree](https://github.com/bryce-bowles/career-change-decision-tree.git) Objectives, uncertainties, influence diagram, assumptions, decision tree model, probability and cumulative comparison node chart (supporting documents – proposal, excel analysis and presentation)
-
-* [Decision Tree and Influence Diagram Scenarios](https://github.com/bryce-bowles/decision-tree-midterm.git) Probabilities, Decision Trees and Influence Diagram scenarios
-
-<br/> 
-
----------
-
-### Business Intelligence (Visuals)
-* [Car Loan Negotiation](https://github.com/bryce-bowles/car-loan-negotiation_goal-seek.git) Used Excel Goal seek to negotiate a car purchased with variables such as Price, APR, Years, Payment/month.
-
-* [Norton Engines](https://github.com/bryce-bowles/norton-engines.git) Optimization analysis solved using Excel solver, sensitivity analysis, and slack. To optimally maximize profits, Norton Engines should produce 1000 Type A engines and 500 Type B engines for a total profit of $6,600,000. 
-
-* [Music Sales](https://github.com/bryce-bowles/music-sales.git) Music sales displayed in a Tableau dashboard with a variety of graphs
-
-* [Airbnb](https://github.com/bryce-bowles/airbnb.git) A couple is deciding where to rent at an Airbnb in New York. Our team helped evaluate factors we thought would help them choose the best location using a Tableau dashboard story. 
-
-* [IRIS Flower Data](https://github.com/bryce-bowles/iris-flower.git) K-Means cluster analysis conducted using KNIME and Tableau
-
-* [Census Clustering](https://github.com/bryce-bowles/census-clustering.git) US Census Bureau data K-Means cluster analysis and Logistic Regression conducted using KNIME and Tableau
-
-* [Lending Club Loan Analysis](https://github.com/bryce-bowles/lending-club-loan-analysis.git) We are a group of investors, looking for the target group of people to give out a personal loan with expectations that it will be fully paid off. Used KNIME logistic regression and MS Excel data table to conclude our target group and focus factors.
-
-* [Netflix Student Competition](https://github.com/bryce-bowles/netflix-student-competition.git) Netflix data, such as Average user rating score and average rating description, visualized via Tableau dashboard 
-
-<br/> 
-
----------
  
 ### Forecasting Methods
 * :star: [Richmond Bank Total Core Deposit Forecasts](https://github.com/bryce-bowles/tsf-richmond-bank.git) Using MS Excel and R, accurately forecasted total core deposit data from a Richmond Bank. The Holt’s Linear Exponential Smoothing had the overall lowest “Quick and Dirty” MAPE (1.2%), the lowest overall Maximum MAPE (3.49%), and consistently more accurate projections for each of the forecast horizons. Overall, the Unaided, Holts Linear Exponential Smoothing, and both regressions overestimated while the Naïve, 12 Month (M) Center Moving Average (CMA), 3M Moving Average (MA), 6M MA, Damped Trend Exponential Smoothing, and Simple Exponential Smoothing underestimated. 
@@ -276,6 +237,24 @@ Topics: Data Visualization in Tableau, Confidence Intervals, Hypothesis Testing,
     3.	Prepared a report to owner explaining/supporting the forecast.
 
 * [Time Series Forecasting Final Exam](https://github.com/bryce-bowles/forecasting-final-exam.git) Comprehensive review with questions and answers on all topics learned including a variety of forecasting methods and examples.  Case scenarios to answer questions on topics such as confidence intervals, forecast adjustments, classical decomposition, exponential smoothing, Croston’s method, holt’s Exponential Smoothing, MSE,  and , seasonal adjusted series, Damping Coefficient, difference Autocorrelation, MAPE, take-off points etc.
+
+<br/> 
+
+---------
+
+### Decision and Risk Analytics (Decision Tree and Influence Diagram)
+* :star: [Project Proposal Decision Tree](https://github.com/bryce-bowles/career-change-decision-tree.git) Objectives, uncertainties, influence diagram, assumptions, decision tree model, probability and cumulative comparison node chart (supporting documents – proposal, excel analysis and presentation)
+
+* [Decision Tree and Influence Diagram Scenarios](https://github.com/bryce-bowles/decision-tree-midterm.git) Probabilities, Decision Trees and Influence Diagram scenarios
+
+<br/> 
+
+---------
+
+### Database Management (SQL/ PostgreSQL)
+* :star: [Automated Systems DBMS](https://github.com/bryce-bowles/scc-work-dbms.git) Completed and proposed an Automated Systems Database to Manager - also created a MS Power BI Version. Centralized Relational SQL Database to help produce the appropriate roles for a position, creating consistency throughout departments and job titles (with the exception of optional roles for additional access) and reduce the number of access roles that are kept when changing positions. The DBMS unifies and consolidates system access to improve data security.
+
+* [Taylor’s Clothing DBMS](https://github.com/bryce-bowles/taylor-clothing-dbms.git) Business rules, user requirements, ER diagram, entity relationships etc. (Oracle APEX)
 
 <br/> 
 
@@ -307,3 +286,27 @@ Topics: Data Visualization in Tableau, Confidence Intervals, Hypothesis Testing,
 * [Opioid Prescribing Rates Analysis](https://github.com/bryce-bowles/opioid-prescribing-rates.git) Semester long project working with Virginia Department of Social Services to assist in data centric reengineer useful data into VA’s major FAACT database. Tableau dashboard analysis and presentation created using data from 2016 to 2019 on Medicare Prescribing rates. 
 
 * [Children’s Bureau Race and Ethnicity Analysis](https://github.com/bryce-bowles/childrens-bureau-race-analysis.git) General statistics on the race and ethnicity of children in foster care analyzing statistics on variables such as Child Maltreatment, Children Waiting for Adoption, children adopted etc.
+
+<br/> 
+
+---------
+
+### Business Intelligence (Visuals)
+* [Car Loan Negotiation](https://github.com/bryce-bowles/car-loan-negotiation_goal-seek.git) Used Excel Goal seek to negotiate a car purchased with variables such as Price, APR, Years, Payment/month.
+
+* [Norton Engines](https://github.com/bryce-bowles/norton-engines.git) Optimization analysis solved using Excel solver, sensitivity analysis, and slack. To optimally maximize profits, Norton Engines should produce 1000 Type A engines and 500 Type B engines for a total profit of $6,600,000. 
+
+* [Music Sales](https://github.com/bryce-bowles/music-sales.git) Music sales displayed in a Tableau dashboard with a variety of graphs
+
+* [Airbnb](https://github.com/bryce-bowles/airbnb.git) A couple is deciding where to rent at an Airbnb in New York. Our team helped evaluate factors we thought would help them choose the best location using a Tableau dashboard story. 
+
+* [IRIS Flower Data](https://github.com/bryce-bowles/iris-flower.git) K-Means cluster analysis conducted using KNIME and Tableau
+
+* [Census Clustering](https://github.com/bryce-bowles/census-clustering.git) US Census Bureau data K-Means cluster analysis and Logistic Regression conducted using KNIME and Tableau
+
+* [Lending Club Loan Analysis](https://github.com/bryce-bowles/lending-club-loan-analysis.git) We are a group of investors, looking for the target group of people to give out a personal loan with expectations that it will be fully paid off. Used KNIME logistic regression and MS Excel data table to conclude our target group and focus factors.
+
+* [Netflix Student Competition](https://github.com/bryce-bowles/netflix-student-competition.git) Netflix data, such as Average user rating score and average rating description, visualized via Tableau dashboard 
+
+<br/> 
+
