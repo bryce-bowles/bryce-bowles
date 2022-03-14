@@ -153,6 +153,8 @@ Proficient in:
 **Projects tagged with :star: are my personal favorites, do check them out!**
 
 </div> 
+<br/> 
+
 
 ### Prescriptive Analytics/Modeling | Decision Analytics / Management Science
 (Machine Learning: Deterministic and Probabilistic Modeling, Optimization, Simulation) 
