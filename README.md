@@ -154,7 +154,7 @@ Proficient in:
 
 </div> 
 
-### Advanced Decision Analytics / Management Science
+### Prescriptive Analytics/Modeling  Decision Analytics / Management Science
 (Machine Learning: Deterministic and Probabilistic Modeling, Optimization, Simulation) 
 * :star: [Federal Reserve Bank of Richmond Workspace Allocation Optimization](https://github.com/bryce-bowles/office-workspace-optimization.git) Won Optimization model class competition issued by Dr. Brooks (M.D.A. department chair and professor). Proposed Python, Pyomo and GLPK network optimization model approach with binary variables and logical constraints to simulate reorganization of 1700 workspaces across 17 floors, while allocating for changing project teams and requirements. Provided report to IT Vice President, Christine Holzem at the Federal Reserve Bank of Richmond.
 
