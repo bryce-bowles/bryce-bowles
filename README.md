@@ -107,30 +107,31 @@ Here are some ideas to get you started:
 * KNIME
 
 </td><td valign="top" width="50%">
+  
 <!--
 ![rams-logo](https://user-images.githubusercontent.com/65502025/150581184-d2fb9f91-94ec-4b0f-85e8-c2623c79e599.png)
 -->
+  
 ### MS Decision Analytics (MDA)
-* :star: [Course Descriptions GitHub Repository](https://github.com/bryce-bowles/MDA_Course-info)
 * [Academic Portfolio Document](https://github.com/bryce-bowles/bryce-bowles/blob/31b9ddfac9642d1dfb8c0673e4fd2bfa09896be7/Bryce_Bowles_Academic-Portfolio.pdf) (PDF)
     * [Academic Transcript](https://github.com/bryce-bowles/MDA_Course-info/blob/f12d2087f7af4012469d1b4c71d732f9e5df6474/Academic-Transcript.pdf)
     * [Recommendation Letters](https://github.com/bryce-bowles/MDA_Course-info/tree/main/Recommendation-Letters)
     * [Statement of Intent](https://github.com/bryce-bowles/MDA_Course-info/blob/ba6cc7d0035d19d8db8c3b8d537e159199c83156/Statement%20of%20Intent%20Final.pdf)
 
-Proficient in:  
-* Advanced Decision Analytics / Management Science
-* Analysis and Design of Database Systems
-* Business Data Analytics
-* Business Intelligence  
-* Business Policy and Strategy
-* Calculus with Analytic Geometry
-* Data Centric Reengineering
-* Database Management Systems
-* Decision and Risk Analytics
-* Forecasting Methods
-* Statistical Analysis and Modeling
-* Statistical Fundamentals of Business MGMT 
-* Quality Management and 6 Sigma
+* :star: [Course Descriptions GitHub Repository](https://github.com/bryce-bowles/MDA_Course-info):  
+    * Advanced Decision Analytics / Management Science
+    * Analysis and Design of Database Systems
+    * Business Data Analytics
+    * Business Intelligence  
+    * Business Policy and Strategy
+    * Calculus with Analytic Geometry
+    * Data Centric Reengineering
+    * Database Management Systems
+    * Decision and Risk Analytics
+    * Forecasting Methods
+    * Statistical Analysis and Modeling
+    * Statistical Fundamentals of Business MGMT 
+    * Quality Management and 6 Sigma
 
 
 </td></tr></table>  
