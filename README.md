@@ -22,13 +22,13 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there 👋 - I'm Bryce Bowles
-#### Aspiring Data Scientist or Machine Learning Engineer 👨‍💻 captivated in learning descriptive, predictive and prescriptive/decision analyses that enhance and optimize business processes with data driven decision making.   
+#### Practicing Data Science and Machine Learning Engineer 👨‍💻. Captivated in learning descriptive, predictive and prescriptive/decision analyses that enhance and optimize business processes with data driven decision making.   
   
 
-- 🎓 I've recently graduated with a Masters in Decision Analytics (MDA) while [working as an analyst](https://github.com/bryce-bowles/SCC-Work-Experience.git) full time 💼 in various data and technical roles  
+- 🎓 Completed my Masters in Decision Analytics (MDA) while [working as an analyst](https://github.com/bryce-bowles/SCC-Work-Experience.git) full time 💼 in various data and technical roles  
   
 
-- 🌱 I'm proficient in gathering, wrangling, modeling, visualizing and presenting data using R, Python Jupyter Notebooks, SQL/PostgreSQL, Tableau, MS Power BI, StatTools, PrecisionTree etc.  
+- 🌱 Proficient in querying data, wrangling, modeling, visualizing and presenting data using R, Python Jupyter Notebooks, SQL/PostgreSQL, Tableau, MS Power BI, StatTools, PrecisionTree etc.  
   
 
 - ⚡ Persistent curiosity, continuous desire to solve problems and excellent communication skills with the ability to build lasting relationships  
