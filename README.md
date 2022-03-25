@@ -105,6 +105,8 @@ Here are some ideas to get you started:
 * Tableau
 * MS Power BI
 * KNIME
+* Snowflake
+* AWS
 
 </td><td valign="top" width="50%">
   
