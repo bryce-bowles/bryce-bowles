@@ -107,6 +107,7 @@ Here are some ideas to get you started:
 * KNIME
 * Snowflake
 * AWS
+* Anaconda
 
 </td><td valign="top" width="50%">
   
