@@ -137,6 +137,8 @@ Here are some ideas to get you started:
     * Statistical Fundamentals of Business MGMT 
     * Quality Management and 6 Sigma
 
+### Awards:
+* [The Honor Society of Phi Kappa Phi (ΦΚΦ)](https://github.com/bryce-bowles/MDA_Course-info/blob/f4e2262c67de49d7a5f8b5bb244f593f5c62697c/Phi%20Kappa%20Phi/README.md)
 
 </td></tr></table>  
 
