@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - </div>  
 -->
 
-### Hi there 👋 - I'm Bryce Bowles
+### About me
 #### Practicing Data Science and Machine Learning Engineering 👨‍💻. Captivated in learning descriptive, predictive and prescriptive/decision analyses that enhance and optimize business processes with data driven decision making.   
   
 
