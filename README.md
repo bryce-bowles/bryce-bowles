@@ -322,3 +322,20 @@ Topics: Data Visualization in Tableau, Confidence Intervals, Hypothesis Testing,
 
 <br/> 
 
+# Education
+
+## Masters in Decision Analytics (M.D.A.)
+
+I received my M.D.A. from [Virginia Commonwealth University](https://www.vcu.edu/) in December 2021. I was advised by industry leading professors such as Dr. Paul Brooks, Dr. Jason Merrick, Dr. Peter Aiken, Dr. Stephen Custer and many more. I worked full time at the State Corporation Commission (SCC) while earning my degree.
+
+## Bachelors of Science In Business Administration (B.S.B.A.)
+
+I received my B.S.B.A. with a focus on Management from  [East Carolina University](https://www.ecu.edu/). I was advised by... and did what... 
+
+
+# Personal
+
+My personal research ambitions outside of my direct experience and projects focus on Data Science and Machine Learning.
+
+Outside of Data Science, I love to travel with family and friends. 
+<div align="center"><img src="https://bryce-bowles.github.io/media/Profile_Pic.jpg" width="40%" style="border-radius:10px; display:block;"></div>
