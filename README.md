@@ -104,6 +104,7 @@ Here are some ideas to get you started:
   * Goal seek, solver, Palisade Decision Tools (Risk for Monte Carlo simulation, Precision Tree for decision trees and StatTools for statistical analysis and forecasting)
 * Tableau
 * MS Power BI
+* SAP Crystal 
 * KNIME
 * Snowflake
 * AWS
