@@ -28,7 +28,6 @@ https://bryce-bowles.github.io/ Created a Professional Portfolio Website to disp
 
 
 
-Learning to create a webpage to display my projects and thoughts. I will try to keep this updated.
 #### Practicing Data Science and Machine Learning Engineering 👨‍💻. Captivated in learning descriptive, predictive and prescriptive/decision analyses that enhance and optimize business processes with data driven decision making.   
   
 
