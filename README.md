@@ -21,7 +21,14 @@ Here are some ideas to get you started:
 - </div>  
 -->
 
-### About me
+## About me
+
+### Professional Portfolio Website
+https://bryce-bowles.github.io/ Created a Professional Portfolio Website to display my projects and thoughts. I will try to keep this updated.
+
+
+
+Learning to create a webpage to display my projects and thoughts. I will try to keep this updated.
 #### Practicing Data Science and Machine Learning Engineering 👨‍💻. Captivated in learning descriptive, predictive and prescriptive/decision analyses that enhance and optimize business processes with data driven decision making.   
   
 
