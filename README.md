@@ -163,13 +163,7 @@ https://bryce-bowles.github.io/ Created a Professional Portfolio Website to disp
 ## Virginia State Corporation Commission (SCC) Projects
 *[SCC Project Repository](https://github.com/bryce-bowles/SCC-Work-Experience.git)*
 
-Recent projects and Commission involvement include but are not limited to:
-* [Agent Licensing Legislation](https://github.com/bryce-bowles/SCC-Work-Experience#agent-licensing-legislation)
-* [Advanced Report and Data Extraction](https://github.com/bryce-bowles/SCC-Work-Experience#advanced-report-and-data-extraction)
-* [SendGrid System Implementation](https://github.com/bryce-bowles/SCC-Work-Experience#sendgrid-system-implementation)
-* [Balance Billing Arbitration](https://github.com/bryce-bowles/SCC-Work-Experience#balance-billing-arbitration)
-* [Annual Company Licensing Renewal](https://github.com/bryce-bowles/SCC-Work-Experience#annual-company-licensing-renewal)
-* [Working Group Meetings](https://github.com/bryce-bowles/SCC-Work-Experience#working-group-meetings)
+Detailed descriptions of my work projects are on my [Portfolio Website](https://bryce-bowles.github.io/work-experience.html).
 
 <br/> 
 
