@@ -161,7 +161,6 @@ https://bryce-bowles.github.io/ Created a Professional Portfolio Website to disp
 
 ----
 ## Virginia State Corporation Commission (SCC) Projects
-*[SCC Project Repository](https://github.com/bryce-bowles/SCC-Work-Experience.git)*
 
 Detailed descriptions of my work projects are on my [Portfolio Website](https://bryce-bowles.github.io/work-experience.html).
 
