@@ -180,13 +180,6 @@ Detailed descriptions of my work projects are on my [Portfolio Website](https://
 
 * [Optimization and Simulation Proposal for SCC Bureau of Insurance](https://github.com/bryce-bowles/helpdesk-optimization-proposal.git) Proposed optimization and simulation framework to benefit helpdesk request distribution and simulate future request volume. 
 
-* [Mobile Munchies](https://github.com/bryce-bowles/mobile-munchies) Mobile Munchies is deciding how much of each type of juice to prepare for the week. Given the ingredients and cost, a python model using Pyomo and GLPK determined the optimal amount of each type of lemonade to produce so the profits maximized subject to the constraints. 
-
-* [Diet Problem and Manufacturing Problem](https://github.com/bryce-bowles/diet-and-manufacturing-optimization) Decided how much of each of each dessert to consume per day so that taste index is maximized, and calories and grams of fat are minimized, subject to constraints (Algebraic Formulation). 
-
-* [Red Tomato Gardening Tools and Sporting Goods Company](https://github.com/bryce-bowles/Red-Tomato-gardening-tools)
-    -	Demand forecast optimization problem model using Python, Pyomo and GLPK in Python. Multifactor objectives and constraints solved using algebraic formulation to allocate and minimize cost.  
-    -	Excel Solver used to allocate how much of each product to produce so that profit is maximized
 
  <br/> 
  
@@ -196,22 +189,9 @@ Detailed descriptions of my work projects are on my [Portfolio Website](https://
 (Modeling via Prediction, Classification and Clustering: Machine Learning, Classification Trees, Regression, Random Forests, Support Vector Machines, etc.)
 * :star: [Alchemy Broker Analysis Project](https://github.com/bryce-bowles/alchemy-broker-modeling.git): Performed segmentation analysis and predictive modeling on insurance broker performance to conclude a random forest model (highest AUC of 73%) predicted whether 2020 Gross Written Premium will increase or decrease from 2019 with a misclassification rate of 35%. Four classification models (classification trees, logistic regression, random forests, and support vector machines) were built, evaluated, and then tuned for prescriptive measures to analyze broker performance. Explored, visualized, and described five groups of brokers using principal component analysis.
 
-* :star: :star: [Lending Club Data Analytics  in R](https://github.com/bryce-bowles/lending-club.git): Topics include the analytics work
-flow, data preparation, visualization, cluster analysis, predictive modeling, and learning-enabled optimization. 
-     1. [Importing the data](https://github.com/bryce-bowles/lending-club/tree/main/1_importing_data)  | To an acceptable format to use in r.
-     2. [Data Prep](https://github.com/bryce-bowles/lending-club/tree/main/2_Data_Preparation) | Slicing, summarizing, missing values, aggregating, descriptive statistics, histograms, log transformation due to skewedness, normalizing and box plot of interest rate for each loan status
-     3. [Visualization](https://github.com/bryce-bowles/lending-club/tree/main/3_visualization) | Histograms, log transformation due to skewedness, normalizing, box and whisker plot, Mosaic Plot, scatter plot, 3D Scatter, time series
-     4. [Cluster_PCA](https://github.com/bryce-bowles/lending-club/tree/main/4_cluster_pca) - Cluster Analysis and Principal Component Analysis (PCA) in R (Cluster Dendrogram, silhouette plot, evaluating 3D clusters etc.) 
-          * [:star:Lending Club Cluster and PCA Repository](https://github.com/bryce-bowles/lending-club-pca-cluster.git) - Using loan data, performed a k-means cluster analysis to identify 7 groups or clusters and two PCAs of borrowers with multiple variables. Explained all preprocessing steps. Performed PCA to identify characteristics of each cluster. Evaluated how clusters compare to assigning applicants to clusters by loan grade. Supported comparison with visuals.  
-     5. [Classification](https://github.com/bryce-bowles/lending-club/tree/main/5_classification) |  Logistic Regression, Classification Trees, confusion matrix, misclassification rate, etc.
-     6. [Evaluating Classification Methods in R](https://github.com/bryce-bowles/lending-club/tree/main/6_class_eval) - A/B testing or partitioning data, Logistic Regression, model fit, confusion matrix, Classification Trees, ROC Curves, AUC, Categorical Variables with Many Levels. 
-          * [:star:Lending Club Classification Analysis Repository](https://github.com/bryce-bowles/lending-club-classification.git) - Built a logistic regression and classification tree models for predicting the final status of a loan based on multiple variables available. Confusion matrix and misclassification rate for each model for a test dataset. Advised variables that appear to be important for predicting outcome. Plotted and described the ROC curves and AUC for the four models to provide my recommendation. 
-     7. [Other Classification Methods in R](https://github.com/bryce-bowles/lending-club/tree/main/7_other_class) | Fitting Models, Random Forest, Support Vector Machine, Neural Networks and ROC Curves
-     8. [Choosing the Best Classifier](https://github.com/bryce-bowles/lending-club/tree/main/8_Choosing_the_best_classifier)
-     9. [Regression Models](https://github.com/bryce-bowles/lending-club/tree/main/9_regression) | Analyzing Linear Regression & Regression Tree factors (p-values, F-test, R2, ANOVA, MAE), Calculating Estimated Return, building predictive models etc.
-     10. [Optimization](https://github.com/bryce-bowles/lending-club/tree/main/10_optimization) | Optimization examples, Calculating Estimated Return, Used Predictive Models to calculate an optimal Lending Club portfolio and optimal expected return
+* [:star:Lending Club Cluster and PCA Repository](https://github.com/bryce-bowles/lending-club-pca-cluster.git) - Using loan data, performed a k-means cluster analysis to identify 7 groups or clusters and two PCAs of borrowers with multiple variables. Explained all preprocessing steps. Performed PCA to identify characteristics of each cluster. Evaluated how clusters compare to assigning applicants to clusters by loan grade. Supported comparison with visuals.  
 
-* [Business Data Analytics Overview](https://github.com/bryce-bowles/business-data-analytics.git): Terms, classification models, test and training dataset splits, logistic regression models, classification tree models, ROC curves, AUC, confusion matrix, support vector machines, variance, bias, leakage, MAE and RMSE, R squared, LASSO approach (penalty on the coefficients) etc.
+* [:star:Lending Club Classification Analysis Repository](https://github.com/bryce-bowles/lending-club-classification.git) - Built a logistic regression and classification tree models for predicting the final status of a loan based on multiple variables available. Confusion matrix and misclassification rate for each model for a test dataset. Advised variables that appear to be important for predicting outcome. Plotted and described the ROC curves and AUC for the four models to provide my recommendation. 
 
 <br/> 
 
@@ -255,8 +235,6 @@ Topics: Data Visualization in Tableau, Confidence Intervals, Hypothesis Testing,
     1.	Discussed the forecasting process at KJ Manufacturing, any relevant factors about the company and industry that are pertinent to the new forecast and Ken’s forecast. 
     2.	Forecasted monthly revenues for KJ Manufacturing for the coming year. Used a variety of methods and graphically displayed them. Explained and supported the new forecasting approach as well as the choice of models and the rational for parameters selected. 
     3.	Prepared a report to owner explaining/supporting the forecast.
-
-* [Time Series Forecasting Final Exam](https://github.com/bryce-bowles/forecasting-final-exam.git) Comprehensive review with questions and answers on all topics learned including a variety of forecasting methods and examples.  Case scenarios to answer questions on topics such as confidence intervals, forecast adjustments, classical decomposition, exponential smoothing, Croston’s method, holt’s Exponential Smoothing, MSE,  and , seasonal adjusted series, Damping Coefficient, difference Autocorrelation, MAPE, take-off points etc.
 
 <br/> 
 
