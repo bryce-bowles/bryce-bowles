@@ -205,8 +205,6 @@ Statistical analysis and modeling for decision analytics via R and XLSTAT. Topic
 
 Topics: Data Visualization in Tableau, Confidence Intervals, Hypothesis Testing, XLSTAT and R, One-way Analysis of Variance, Two-way Analysis of Variance, Designed Experiments, scatter plots and correlations simple linear regression, Introduction to multiple regression, Dummy variables, Interaction Terms, Inference for multiple regression, Testing for and fixing problems, multicollinearity, outliers, heteroscedasticity, non-normality, Stepwise regression, Prediction, Cross-validation, Sparse Methods, Lasso regression, Correlated predictors, Ridge regression, Classification Methods, Logistic regression, Neural networks, Classification trees, Clustering, K-means clustering, Hierarchical clustering, Normal mixtures, Bootstrap methods, Forecasting, Diagnostic tools, Testing for randomness, Linear and exponential trends, Dummy seasonality variables, Moving averages and decomposition, Forecasting, Exponential smoothing, ARIMA models, Time Series Forecasting
 
-* [Midterm Report](https://github.com/bryce-bowles/statistical-modeling-R.git) Descriptive statistics, Confidence intervals, z-test for two independent samples / Two-tailed test, scattergrams, box plots, Analysis of Variance, p-values, root mean square error, R2, Akaike’s AIC Best model, Multicollinearity Variance Inflation Factors, etc. 
-
 * [Whiskey Analysis](https://github.com/bryce-bowles/whiskey-prediction.git) Logistic regression model to predict the best and worst whiskeys using Confusion Matrix with training and validation samples. Correlation matrix, goodness of fit statistics, Hosmer-Lemeshow test, chi-squared, confusion matrix, Scatter plots, box plots etc.
 
 * Other models using .R and R-Studio
