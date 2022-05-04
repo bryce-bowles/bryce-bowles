@@ -241,8 +241,6 @@ Topics: Data Visualization in Tableau, Confidence Intervals, Hypothesis Testing,
 ### Decision and Risk Analytics (Decision Tree and Influence Diagram)
 * :star: [Project Proposal Decision Tree](https://github.com/bryce-bowles/career-change-decision-tree.git) Objectives, uncertainties, influence diagram, assumptions, decision tree model, probability and cumulative comparison node chart (supporting documents – proposal, excel analysis and presentation)
 
-* [Decision Tree and Influence Diagram Scenarios](https://github.com/bryce-bowles/decision-tree-midterm.git) Probabilities, Decision Trees and Influence Diagram scenarios
-
 <br/> 
 
 ---------
