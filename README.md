@@ -199,21 +199,10 @@ Detailed descriptions of my work projects are on my [Portfolio Website](https://
 
 ### Statistical Analysis and Modeling
 
-* :star: [Statistical Analysis and Modeling Concepts Concepts Repository](https://github.com/bryce-bowles/Statistical-Analysis-Modeling-Concepts.git) 
-
+* :star: [Statistical Analysis and Modeling Course Repository](https://github.com/bryce-bowles/MDA_Course-info/blob/0dfe073e10ba45b933bc6ba0196d7a989dc66f85/Statistical-Analysis-and-Modeling/README.md) 
 Statistical analysis and modeling for decision analytics via R and XLSTAT. Topics covered had an applied focus and include logistic regression, bootstrap estimation, permutation tests, categorical data analysis, model selection, sparse methods and Bayesian methods. Repository includes topics covered per module. 
 
-Topics: Data Visualization in Tableau, Confidence Intervals, Hypothesis Testing, XLSTAT and R, One-way Analysis of Variance, Two-way Analysis of Variance, Designed Experiments, scatter plots and correlations simple linear regression, Introduction to multiple regression, Dummy variables, Interaction Terms, Inference for multiple regression, Testing for and fixing problems, multicollinearity, outliers, heteroscedasticity, non-normality, Stepwise regression, Prediction, Cross-validation, Sparse Methods, Lasso regression, Correlated predictors, Ridge regression, Classification Methods, Logistic regression, Neural networks, Classification trees, Clustering, K-means clustering, Hierarchical clustering, Normal mixtures, Bootstrap methods, Forecasting, Diagnostic tools, Testing for randomness, Linear and exponential trends, Dummy seasonality variables, Moving averages and decomposition, Forecasting, Exponential smoothing, ARIMA models, Time Series Forecasting
-
 * [Whiskey Analysis](https://github.com/bryce-bowles/whiskey-prediction.git) Logistic regression model to predict the best and worst whiskeys using Confusion Matrix with training and validation samples. Correlation matrix, goodness of fit statistics, Hosmer-Lemeshow test, chi-squared, confusion matrix, Scatter plots, box plots etc.
-
-* Other models using .R and R-Studio
-    *	[TSPlots.R](https://github.com/bryce-bowles/ts-plots.R.git) Time Series analysis concepts using examples in r. Multiple data sets were used to demonstrate reading in data, filtering, date conversion, plotting (autoplot, gg_season, gg_subseries, GGalley), seasonality, cross correlation, autocorrelation, ACF, lag, white noise etc.
-    *	[TSRegression.R](https://github.com/bryce-bowles/ts-regression.R.git) Used tslm function to fit a multiple regression model with time series data while checking residuals for auto-correlation, trend and seasonality
-    *	[TSDecomposition.R](https://github.com/bryce-bowles/ts-decomposition.R.git)
-    *	[ExponentialSmoothing.R](https://github.com/bryce-bowles/ts-exponential-smoothing.git) 
-    *	[Differencing.R](https://github.com/bryce-bowles/differencing.git) - Must detrend before doing ARIMA
-    *	[ARIMA.R](https://github.com/bryce-bowles/arima-r.git) 
 
 
 <br/> 
