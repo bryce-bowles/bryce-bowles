@@ -121,12 +121,6 @@ https://bryce-bowles.github.io/ Created a Professional Portfolio Website to disp
   
 ### Master in Decision Analytics (MDA)
 
-* [Academic Portfolio Document (PDF)](https://github.com/bryce-bowles/bryce-bowles/blob/31b9ddfac9642d1dfb8c0673e4fd2bfa09896be7/Bryce_Bowles_Academic-Portfolio.pdf)
-    * [Academic Transcript](https://github.com/bryce-bowles/MDA_Course-info/blob/f12d2087f7af4012469d1b4c71d732f9e5df6474/Academic-Transcript.pdf)
-    * [Recommendation Letters](https://github.com/bryce-bowles/MDA_Course-info/tree/main/Recommendation-Letters)
-    * [Statement of Intent](https://github.com/bryce-bowles/MDA_Course-info/blob/ba6cc7d0035d19d8db8c3b8d537e159199c83156/Statement%20of%20Intent%20Final.pdf)
-
-  
 * :star: [Course Descriptions GitHub Repository](https://github.com/bryce-bowles/MDA_Course-info):  
     * Advanced Decision Analytics / Management Science
     * Analysis and Design of Database Systems
@@ -148,13 +142,6 @@ https://bryce-bowles.github.io/ Created a Professional Portfolio Website to disp
 </td></tr></table>  
 
 <br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=bryce-bowles&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-<br/> 
 
 ----
 ## Virginia State Corporation Commission (SCC) Projects
