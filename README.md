@@ -100,21 +100,18 @@ https://bryce-bowles.github.io/ Created a Professional Portfolio Website to disp
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
 </div>
 
+* R (R-Studio): 
+  * Caret, randomForest, ranger, rpart, Dplyr, tidyverse, Ggplot2 etc.
 * Python (python 3, Juypter Notebooks): 
   * Pandas, NumPy, SciPy, Pyomo, GLPK, Matplotlib, Scikit Learn, Plotly
-* R (R-Studio): 
-  * Dplyr, tidyverse, Ggplot2, Caret, Plotly, rpart, randomForest, data.table, tsibble, pastecs etc.
-* SQL (Postgres SQL, SQL Server, AQT, Oracle APEX)
-* JSON (framework)
+* SQL (Postgres SQL, SSMS, AQT, Oracle APEX)
 * MS Excel
-  * Goal seek, solver, Palisade Decision Tools (Risk for Monte Carlo simulation, Precision Tree for decision trees and StatTools for statistical analysis and forecasting)
+  * Goal seek, solver, Palisade Decision Tools (Risk for simulation, Precision Tree for decision trees and StatTools for statistical analysis and forecasting)
 * Tableau
 * MS Power BI
 * SAP Crystal 
 * KNIME
-* Snowflake
-* AWS
-* Anaconda
+
 
 </td><td valign="top" width="50%">
   
