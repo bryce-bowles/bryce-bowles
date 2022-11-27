@@ -30,17 +30,16 @@ https://bryce-bowles.github.io/ Created a Professional Portfolio Website to disp
 
 #### Practicing Data Science and Machine Learning Engineering 👨‍💻. Captivated in learning descriptive, predictive and prescriptive/decision analyses that enhance and optimize business processes with data driven decision making.   
   
+- 🌱 Proficient in querying data, wrangling, modeling, visualizing and presenting data using R, Python Jupyter Notebooks, SQL/PostgreSQL, Tableau, MS Power BI, StatTools, PrecisionTree etc.  
+
 
 - 🎓 Completed my Masters in Decision Analytics (MDA) (4.0 GPA) while [working as an analyst](https://github.com/bryce-bowles/SCC-Work-Experience.git) full time 💼 in various data and technical roles  
-  
-
-- 🌱 Proficient in querying data, wrangling, modeling, visualizing and presenting data using R, Python Jupyter Notebooks, SQL/PostgreSQL, Tableau, MS Power BI, StatTools, PrecisionTree etc.  
   
 
 - ⚡ Persistent curiosity, continuous desire to solve problems and excellent communication skills with the ability to build lasting relationships  
   
 
-- 📶 I welcome you to join me on my data/tech learning journey! To get to know me more, I highly encourage you to view my [Academic Portfolio](https://github.com/bryce-bowles/bryce-bowles/blob/main/Bryce_Bowles_Academic-Portfolio.pdf), [Academic Transcript](https://github.com/bryce-bowles/MDA_Course-info/blob/e0cf48ce251b57412262a481e4c149a8e5900eaa/Academic-Transcript.pdf) and [Resume](Bryce_Bowles_Resume.pdf). Feel free to connect on [LinkedIn](http://www.linkedin.com/in/bryce-bowles) or give me a follow on [Datacamp](https://www.datacamp.com/profile/bowlesbe) or *GitHub* to stay in the loop!
+- 📶 I welcome you to join me on my data/tech learning journey! To get to know me more, I highly encourage you to view my [Personal Portfolio Website](https://bryce-bowles.github.io/), [Resume](Bryce_Bowles_Resume.pdf), [Academic Portfolio Document](https://github.com/bryce-bowles/bryce-bowles/blob/main/Bryce_Bowles_Academic-Portfolio.pdf) and [Academic Transcript](https://github.com/bryce-bowles/MDA_Course-info/blob/e0cf48ce251b57412262a481e4c149a8e5900eaa/Academic-Transcript.pdf). Feel free to connect on [LinkedIn](http://www.linkedin.com/in/bryce-bowles) or give me a follow on *GitHub* to stay in the loop!
   
 ![](https://komarev.com/ghpvc/?username=bryce-bowles&color=green)
 
