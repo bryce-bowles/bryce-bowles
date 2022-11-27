@@ -24,8 +24,7 @@ Here are some ideas to get you started:
 ## About me
 
 ### Professional Portfolio Website
-https://bryce-bowles.github.io/ Created a Professional Portfolio Website to display my projects and thoughts. I will try to keep this updated.
-
+https://bryce-bowles.github.io/ Created a Professional Portfolio Website to display my projects and thoughts.
 
 
 #### Practicing Data Science and Machine Learning Engineering 👨‍💻. Captivated in learning descriptive, predictive and prescriptive/decision analyses that enhance and optimize business processes with data driven decision making.   
@@ -143,7 +142,7 @@ https://bryce-bowles.github.io/ Created a Professional Portfolio Website to disp
 <br/>  
 
 ----
-## Virginia State Corporation Commission (SCC) Projects
+## Work related Projects
 
 Detailed descriptions of my work projects are on my [Portfolio Website](https://bryce-bowles.github.io/work-experience.html).
 
