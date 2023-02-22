@@ -146,7 +146,7 @@ https://bryce-bowles.github.io/ Created a Professional Portfolio Website to disp
 
 Detailed descriptions of my work projects are on my [Portfolio Website](https://bryce-bowles.github.io/work-experience.html).
 
-    * [FZG Failure Load Stage](https://github.com/bryce-bowles/FZG_FailureLoadStage.git)
+   * [FZG Failure Load Stage](https://github.com/bryce-bowles/FZG_FailureLoadStage.git)
 
 <br/> 
 
