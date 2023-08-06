@@ -99,7 +99,7 @@ https://bryce-bowles.github.io/ Created a Professional Portfolio Website to disp
 </div>
 
 * R (R-Studio): 
-  * Caret, randomForest, ranger, rpart, Dplyr, tidyverse, Ggplot2 etc.
+  * Caret (randomForest, ranger, rpart, cubist, glm, gbm, xgbTree, nnet, and other boosting/bagging concepts etc.), dplyr, tidyverse, Ggplot2 etc.
 * Python (python 3, Juypter Notebooks): 
   * Pandas, NumPy, SciPy, Pyomo, GLPK, Matplotlib, Scikit Learn, Plotly
 * SQL (Postgres SQL, SSMS, AQT, Oracle APEX)
