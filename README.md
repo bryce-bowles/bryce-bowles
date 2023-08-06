@@ -29,7 +29,7 @@ https://bryce-bowles.github.io/ Created a Professional Portfolio Website to disp
 
 #### Practicing Data Science and Machine Learning Engineering 👨‍💻. Captivated in learning descriptive, predictive and prescriptive/decision analyses that enhance and optimize business processes with data driven decision making.   
   
-- 🌱 Proficient in querying data, wrangling, modeling, visualizing and presenting data using R, Python Jupyter Notebooks, SQL/PostgreSQL, Tableau, MS Power BI, StatTools, PrecisionTree etc.  
+- 🌱 Proficient in querying data, wrangling, modeling, visualizing and presenting data using R, Python, SQL/PostgreSQL, Tableau, MS Power BI, StatTools, PrecisionTree, Excel/Access etc.  
 
 
 - 🎓 Completed my Masters in Decision Analytics (MDA) (4.0 GPA) while [working as an analyst](https://github.com/bryce-bowles/SCC-Work-Experience.git) full time 💼 in various data and technical roles  
