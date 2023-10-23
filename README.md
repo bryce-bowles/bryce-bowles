@@ -146,7 +146,10 @@ https://bryce-bowles.github.io/ Created a Professional Portfolio Website to disp
 
 Detailed descriptions of my work projects are on my [Portfolio Website](https://bryce-bowles.github.io/work-experience.html).
 
+   * [Mentor to a Data Science Intern](https://bryce-bowles.github.io/work-experience.html#Mentor)
+   * [Oxidation Predictive Model](https://bryce-bowles.github.io/work-experience.html#Oxidation)
    * [FZG Failure Load Stage](https://github.com/bryce-bowles/FZG_FailureLoadStage.git)
+   * etc....
 
 <br/> 
 
